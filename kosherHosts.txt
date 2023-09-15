@@ -10,3 +10,6 @@ www.kikar.co.il
 mail.google.com
 myaccount.google.com
 mobile.srugim.co.il
+hb2.bankleumi.co.il
+login.bankhapoalim.co.il
+start.telebank.co.il
