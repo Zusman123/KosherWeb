@@ -15,3 +15,5 @@ login.bankhapoalim.co.il
 start.telebank.co.il
 online.maccabi4u.co.il
 mac.maccabi4u.co.il
+login3.stg.cd.id.hp.com
+my.rimon.net.il
