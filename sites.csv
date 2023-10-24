@@ -1,4 +1,4 @@
-<version-sites>7</version-sites>,,,
+<version-sites>9</version-sites>,,,
 https://www.inn.co.il,ערוץ 7,100,0
 https://www.kipa.co.il/,כיפה,104,0
 https://www.hidabroot.org/,הידברות,103,0
@@ -69,7 +69,7 @@ https://daily-torah.tv/,ערוץ התורה,168,10
 https://askrav.com/,שאל את הרב,169,1
 https://www.hamichlol.org.il/,המכלול,170,1
 https://www.jdn.co.il/,JDN – חדשות,171,0
-https://meirkids.co.il/,ערוץ מאיר,172,10
+https://meirkids.co.il/,ערוץ מאיר לילדים,172,10
 https://www.inn.co.il/Children/Teladudes.aspx,ילדודס,173,10
 https://www.jtube.live/,Jtube,174,10
 https://www.th770.co.il/alef/free,ערוץ אלף,175,10
@@ -86,7 +86,7 @@ https://www.kikar.co.il/,כיכר השבת,185,0
 https://translate.google.com/,Google Translate,186,5
 https://grapholike.com/,גרפולייק - ברכות ואיחולים,187,5
 https://chabadshop.com/,חבד - שופ,188,4
-https://www.mushgach.co.il/,מושגח - החנות הרשמית,189,4
+https://www.mushgach.co.il/,מושגח - החנות הרשמית,189,15
 https://yefe.co.il/,יפה נוף פלדהיים - ספרים,190,4
 https://www.sifreiorhachaim.co.il/,ספרי אור החיים,191,4
 https://www.oref.org.il/,פיקוד העורף,192,6
@@ -128,9 +128,61 @@ https://www.israel-aquarium.org.il/,אקווריום ישראל,227,11
 https://www.safari.co.il/,הספארי,228,11
 https://www.parks.org.il/,רשות הטבע והגנים,229,11
 https://www.jumbomail.me/,ג'אמבו מייל - שליחת קבצים גדולים,230,5
-https://hashadchan.co.il/,השדכן,231,1
+https://hashadchan.co.il/,השדכן,231,13
 https://hamenagen.net/,המנגן מיוזיק,232,7
 https://xn--4dbclabp0e.co.il/plan,אוטובוס קרוב,233,5
 https://www.pneimelech.com/,פני מלך לילדים,234,10
 https://miktzav.com/,מקצב - פורום המוזיקה החרדי,235,7
 https://zoom.us/,Zoom,236,5
+https://www.gov.il/he/departments/ministry_of_interior/govil-landing-page,משרד הפנים,237,6
+https://hadass.site/,הדס - מאגר סרטונים כשרים,238,10
+https://col.org.il/,חבד און ליין,239,0
+https://www.9tut.com/,CCNA Training,240,2
+https://umanshalom.co.il/,אומן שלום,241,1
+https://www.bshemtov.com/,בית הבעל שם טוב,242,1
+https://www.jerusalem.muni.il/,ירושלים,243,12
+https://www.bnei-brak.muni.il/,בני ברק,244,12
+https://www.elad.muni.il/,אלעד,245,12
+https://betshemesh.muni.il/,בית שמש,246,12
+https://www.modil.org.il/,מודיעין עילית,247,12
+https://www.betar-illit.muni.il/,ביתר עילית,248,12
+https://www.shomron.org.il/,שומרון,249,12
+https://www.binyamin.org.il/,מטה בנימין,250,12
+https://www.ami.org.il/,עזר מציון,251,13
+https://yad-sarah.net/,יד שרה,252,13
+https://www.ezra-lemarpe.org/,עזרא למרפא,253,13
+https://zichron.org/,זכרון מנחם,254,13
+https://puah.org.il/,מכון פועה,255,13
+https://yedidim-il.org/,ידידים - סיוע בדרכים,256,13
+https://www.paamonim.org/,פעמונים,257,13
+https://www.albar.co.il/,אלבר,258,14
+https://www.shlomo.co.il/,שלמה סיקסט,259,14
+https://www.hertz.co.il/,הרץ - השכרת רכב,260,14
+https://www.eldan.co.il/,אלדן - רכב,261,14
+https://auto-shay.com/,אוטו שי,262,14
+https://www.freesbe.com/,פריסבי - רכב,263,14
+https://www.avis.co.il/,Avis -  רכב,264,14
+https://www.budget.co.il/,Budget - רכב,265,14
+https://rimon.net.il/,אינטרנט רימון,266,15
+https://www.netsparkmobile.com/,נטספארק - netspark,267,15
+https://netfree.link/,נטפרי,268,15
+https://kosherplay.com/,כשר פליי,269,15
+https://hadran.net/,הדרן,270,15
+https://derechamelech.net/,דרך המלך,271,15
+https://mmb.org.il/,לוקחים אחריות,272,15
+https://ironswords.help/,עורף ברזל,273,13
+https://www.idf.il/,אתר צהל,274,6
+https://www.miluim.idf.il/,אתר המילואים,275,6
+https://meirtv.com/,ערוץ מאיר,276,1
+https://www.hybp.co.il/,ישיבת אשרי האיש,277,1
+https://spotify-downloader.com/,Spotify Downloader,278,7
+https://www.hp.com/,HP - מחשבים,279,4
+https://hebrewbooks.org/,hebrewbooks.org,280,1
+https://www.date4dos.co.il/,שליש גן עדן,281,13
+https://www.7brachot.co.il/,שבע ברכות - הכרויות לדתיים,282,13
+https://www.cal-online.co.il/,כאל - כרטיסי אשראי לישראל,283,8
+https://digital.isracard.co.il/,ישראכרט - כרטיסי אשראי,284,8
+https://www.max.co.il/,מקס - כרטיסי אשראי,285,8
+https://harv.co.il/,הרב - שיעורי תורה,286,1
+https://www.kolhalashon.com/,קול הלשון - שיעורי תורה,287,1
+https://www.doscast.co.il/,דוסקאסט - ספרית פודקאסטים,288,10
