@@ -17,3 +17,5 @@ online.maccabi4u.co.il
 mac.maccabi4u.co.il
 login3.stg.cd.id.hp.com
 my.rimon.net.il
+support.iscool.co.il
+wifi.elal.com
