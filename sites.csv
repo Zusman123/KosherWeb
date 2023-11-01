@@ -1,187 +1,191 @@
-<version-sites>10</version-sites>,,,
-https://www.inn.co.il,ערוץ 7,100,0
-https://www.kipa.co.il/,כיפה,104,0
-https://www.hidabroot.org/,הידברות,103,0
-https://m.93fm.co.il/,קול חי,102,0
-https://www.bhol.co.il/,בחדרי חרדים,105,0
-https://www.sefaria.org.il/,ספריא,106,1
-http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1
-https://ph.yhb.org.il/,פניני הלכה,108,1
-https://web.mashov.info/students/,משוב תלמידים,109,2
-https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2
-https://bneiakiva.org.il/,בני עקיבא,111,3
-https://ezra.org.il/,עזרא,112,3
-https://tariel.co.il/,אריאל,113,3
-https://xn--8dbbvwj.net/,פעולה. נט,114,3
-https://www.rami-levy.co.il/, רמי לוי אונליין,116,4
-https://www.shufersal.co.il/online/,שופרסל אונליין,117,4
-https://yochananof.co.il/,יוחננוף,118,4
-https://osherad.co.il/,אושר עד,119,4
-https://www.payngo.co.il/,מחסני חשמל,120,4
-https://www.ivory.co.il/stores.html,אייבורי,121,4
-https://www.bug.co.il/,באג,122,4
-https://leaderkids.co.il/,לידר,123,4
-https://www.bazars.co.il/,בזאר שטראוס,124,4
-https://docs.google.com/,docs,125,5
-https://drive.google.com/,Google Drive,126,5
-https://he.thetimenow.com/worldclock.php,שעון עולמי,127,5
-https://weather.com/,מזג האוויר,128,5
-https://www.gov.il/,האתר הממשלתי,129,6
-https://bus.gov.il/,תחבורה ציבורית,130,6
-https://govisit.gov.il/,GoVisit,131,6
-https://israelpost.co.il/,דואר ישראל,132,5
-https://www.taasuka.gov.il/,לוח דרושים - שירות התעסוקה,133,6
-https://www.tab4u.com/indexForMobile.php,Tab4U,134,7
-https://www.chasidinews.com/,חסידיניוס,135,7
-https://www.toker.fm/,הרדיו של מנחם טוקר,136,7
-https://kcm.fm/,קול חי מיוזיק,137,7
-https://kol-play.co.il/,קול פליי,138,7
-https://tavisraeli.co.il/,תו ישראלי,139,7
-https://steinsaltz-center.org/he/portal/library,שטיינזלץ,140,1
-https://tikunkorim.co.il/,תיקון קוראים,141,1
-https://koshertube.co.uk/,Koshertube,142,10
-http://www.chabad.org.il/,חבד,143,1
-https://chabad.info/,חבד אינפו,144,0
-https://secapp.taxes.gov.il/logon/LogonPoint/tmindex.html,רשות המיסים - כניסה ללקוחות רשומים,145,6
-https://www.gov.il/he/departments/israel_tax_authority/govil-landing-page,רשות המיסים בישראל,146,6
-https://mail.google.com/,Gmail,147,5
-https://www.otzar.org/,אוצר החוכמה,148,1
-https://www.paypal.com/,PayPal,149,8
-https://www.bankotsar.co.il/,אוצר החייל,150,8
-https://www.bankhapoalim.co.il/,בנק הפועלים,151,8
-https://www.discountbank.co.il/,דיסקונט,152,8
-https://www.leumi.co.il/,לאומי,153,8
-https://www.pepper.co.il/,פפר,154,8
-https://www.bankhadoar.co.il,בנק הדואר,155,8
-https://www.mercantile.co.il/,מרכנתיל,156,8
-https://www.mizrahi-tefahot.co.il/,מזרחי טפחות,157,8
-https://www.clalit.co.il/,כללית,158,9
-https://www.maccabi4u.co.il/,מכבי,159,9
-https://www.meuhedet.co.il/,מאוחדת,160,9
-https://leumit.co.il/,לאומית,161,9
-https://www.udemy.com/,Udemy,162,2
-https://students.education.gov.il/,פורטל תלמידים,163,2
-https://www.ornaki.org/,אור נקי,164,1
-https://newsmusic.blogspot.com/,חדשות המוזיקה להורדה,165,7
-https://campus.gov.il/,קמפוס IL,166,2
-https://ksp.co.il/,KSP,167,4
-https://daily-torah.tv/,ערוץ התורה,168,10
-https://askrav.com/,שאל את הרב,169,1
-https://www.hamichlol.org.il/,המכלול,170,1
-https://www.jdn.co.il/,JDN – חדשות,171,0
-https://meirkids.co.il/,ערוץ מאיר לילדים,172,10
-https://www.inn.co.il/Children/Teladudes.aspx,ילדודס,173,10
-https://www.jtube.live/,Jtube,174,10
-https://www.th770.co.il/alef/free,ערוץ אלף,175,10
-https://chitadelivery.co.il/,צ'יטה שליחויות,176,4
-https://www.yad2.co.il/,יד 2,177,4
-https://il.kolkore.com/,קול קורא,178,1
-https://www.iec.co.il/,חברת החשמל,179,6
-https://inbar.biu.ac.il/,אינ-בר,180,2
-https://math-wiki.com/,Math-Wiki,181,2
-https://www.govmap.gov.il/,Govmap,182,6
-https://www.kore.co.il/,כל רגע,183,0
-https://www.dirshu.co.il/,דירשו,184,1
-https://www.kikar.co.il/,כיכר השבת,185,0
-https://translate.google.com/,Google Translate,186,5
-https://grapholike.com/,גרפולייק - ברכות ואיחולים,187,5
-https://chabadshop.com/,חבד - שופ,188,4
-https://www.mushgach.co.il/,מושגח - החנות הרשמית,189,15
-https://yefe.co.il/,יפה נוף פלדהיים - ספרים,190,4
-https://www.sifreiorhachaim.co.il/,ספרי אור החיים,191,4
-https://www.oref.org.il/,פיקוד העורף,192,6
-https://www.btl.gov.il/,ביטוח לאומי,193,6
-https://www.m-math.co.il/,לומדים מתמטיקה,194,2
-https://koshercode.netlify.app/,תכנות - חומרי למידה,195,2
-https://www.b144.co.il/,b144,196,5
-https://www.waze.com/,Waze,197,5
-https://www.kidichic.co.il/,קידישיק,198,4
-https://kidsbasicfashion.com/,קידס בייסיק,199,4
-https://www.hadasminilove.com/,הדס מיני לאב,200,4
-https://new.mishnatyosef.org/,משנת יוסף,201,4
-https://skillshop.exceedlms.com/,הסדנה הדיגיטלית של Google,202,2
-https://www.angelskids.co.il/,Angeles - בגדי ילדים,203,4
-https://www.muka.co.il/,מוקה סטיילינג,204,4
-https://www.galpazmuzic.com/,גל פז מוזיקה,205,10
-https://www.greentec.co.il/,גרינטק - מוזיקה ותוכן יהודי,206,10
-https://eshkolot.net/,אשכולות - קורסים מקוונים,207,2
-https://poh.education.gov.il/,פורטל עובדי הוראה,208,6
-https://my.gov.il/,אזור אישי ממשלתי,209,6
-https://ysrihut.co.il/,יופי של ריהוט,210,4
-https://milog.co.il/,מילוג - מילון עברי עברי,211,5
-https://www.dshir.co.il/,דברי שיר,212,4
-https://www.tami4.co.il/,תמי 4,213,4
-https://mitmachim.top/,מתמחים טופ,214,2
-https://hse.org.il/,הרב שמואל אליהו,215,1
-https://www.yeshiva.org.il/,אתר ישיבה,216,1
-https://puzzle-outlet.com/,פאזל אאוטלט,217,4
-https://glatticket.co.il/,גלאטיקט - תרבות ברוח ההלכה,218,11
-https://www.cartube.co.il/,קארטיוב - חדשות רכב,219,0
-https://www.shagrir.co.il/,שגריר - שירותי דרך בעמ,220,4
-https://www.matara.pro/,נדרים פלוס,221,1
-https://kids.hidabroot.org/movies,סרטים לילדים - הידברות,222,10
-https://www.shukcity.co.il/,שוק העיר - סופרמרקט אונליין,223,4
-https://www.hvr.co.il/,חבר' משרתי הקבע והגמלאים,225,11
-https://www.jerusalemzoo.org/,גן החיות התנכי,226,11
-https://www.israel-aquarium.org.il/,אקווריום ישראל,227,11
-https://www.safari.co.il/,הספארי,228,11
-https://www.parks.org.il/,רשות הטבע והגנים,229,11
-https://www.jumbomail.me/,ג'אמבו מייל - שליחת קבצים גדולים,230,5
-https://hashadchan.co.il/,השדכן,231,13
-https://hamenagen.net/,המנגן מיוזיק,232,7
-https://xn--4dbclabp0e.co.il/plan,אוטובוס קרוב,233,5
-https://www.pneimelech.com/,פני מלך לילדים,234,10
-https://miktzav.com/,מקצב - פורום המוזיקה החרדי,235,7
-https://zoom.us/,Zoom,236,5
-https://www.gov.il/he/departments/ministry_of_interior/govil-landing-page,משרד הפנים,237,6
-https://hadass.site/,הדס - מאגר סרטונים כשרים,238,10
-https://col.org.il/,חבד און ליין,239,0
-https://www.9tut.com/,CCNA Training,240,2
-https://umanshalom.co.il/,אומן שלום,241,1
-https://www.bshemtov.com/,בית הבעל שם טוב,242,1
-https://www.jerusalem.muni.il/,ירושלים,243,12
-https://www.bnei-brak.muni.il/,בני ברק,244,12
-https://www.elad.muni.il/,אלעד,245,12
-https://betshemesh.muni.il/,בית שמש,246,12
-https://www.modil.org.il/,מודיעין עילית,247,12
-https://www.betar-illit.muni.il/,ביתר עילית,248,12
-https://www.shomron.org.il/,שומרון,249,12
-https://www.binyamin.org.il/,מטה בנימין,250,12
-https://www.ami.org.il/,עזר מציון,251,13
-https://yad-sarah.net/,יד שרה,252,13
-https://www.ezra-lemarpe.org/,עזרא למרפא,253,13
-https://zichron.org/,זכרון מנחם,254,13
-https://puah.org.il/,מכון פועה,255,13
-https://yedidim-il.org/,ידידים - סיוע בדרכים,256,13
-https://www.paamonim.org/,פעמונים,257,13
-https://www.albar.co.il/,אלבר,258,14
-https://www.shlomo.co.il/,שלמה סיקסט,259,14
-https://www.hertz.co.il/,הרץ - השכרת רכב,260,14
-https://www.eldan.co.il/,אלדן - רכב,261,14
-https://auto-shay.com/,אוטו שי,262,14
-https://www.freesbe.com/,פריסבי - רכב,263,14
-https://www.avis.co.il/,Avis -  רכב,264,14
-https://www.budget.co.il/,Budget - רכב,265,14
-https://rimon.net.il/,אינטרנט רימון,266,15
-https://www.netsparkmobile.com/,נטספארק - netspark,267,15
-https://netfree.link/,נטפרי,268,15
-https://kosherplay.com/,כשר פליי,269,15
-https://hadran.net/,הדרן,270,15
-https://derechamelech.net/,דרך המלך,271,15
-https://mmb.org.il/,לוקחים אחריות,272,15
-https://ironswords.help/,עורף ברזל,273,13
-https://www.idf.il/,אתר צהל,274,6
-https://www.miluim.idf.il/,אתר המילואים,275,6
-https://meirtv.com/,ערוץ מאיר,276,1
-https://www.hybp.co.il/,ישיבת אשרי האיש,277,1
-https://spotify-downloader.com/,Spotify Downloader,278,7
-https://www.hp.com/,HP - מחשבים,279,4
-https://hebrewbooks.org/,hebrewbooks.org,280,1
-https://www.date4dos.co.il/,שליש גן עדן,281,13
-https://www.7brachot.co.il/,שבע ברכות - הכרויות לדתיים,282,13
-https://www.cal-online.co.il/,כאל - כרטיסי אשראי לישראל,283,8
-https://digital.isracard.co.il/,ישראכרט - כרטיסי אשראי,284,8
-https://www.max.co.il/,מקס - כרטיסי אשראי,285,8
-https://harv.co.il/,הרב - שיעורי תורה,286,1
-https://www.kolhalashon.com/,קול הלשון - שיעורי תורה,287,1
-https://www.doscast.co.il/,דוסקאסט - ספרית פודקאסטים,288,10
+<version-sites>11</version-sites>,,,,
+https://www.inn.co.il,ערוץ 7,100,0,?
+https://www.kipa.co.il/,כיפה,104,0,?
+https://www.hidabroot.org/,הידברות,103,0,?
+https://m.93fm.co.il/,קול חי,102,0,?
+https://www.bhol.co.il/,בחדרי חרדים,105,0,?
+https://www.sefaria.org.il/,ספריא,106,1,?
+http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,?
+https://ph.yhb.org.il/,פניני הלכה,108,1,?
+https://web.mashov.info/students/,משוב תלמידים,109,2,?
+https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,?
+https://bneiakiva.org.il/,בני עקיבא,111,3,?
+https://ezra.org.il/,עזרא,112,3,?
+https://tariel.co.il/,אריאל,113,3,?
+https://xn--8dbbvwj.net/,פעולה. נט,114,3,?
+https://www.rami-levy.co.il/, רמי לוי אונליין,116,4,?
+https://www.shufersal.co.il/online/,שופרסל אונליין,117,4,?
+https://yochananof.co.il/,יוחננוף,118,4,?
+https://osherad.co.il/,אושר עד,119,4,?
+https://www.payngo.co.il/,מחסני חשמל,120,4,?
+https://www.ivory.co.il/stores.html,אייבורי,121,4,?
+https://www.bug.co.il/,באג,122,4,?
+https://leaderkids.co.il/,לידר,123,4,?
+https://www.bazars.co.il/,בזאר שטראוס,124,4,?
+https://docs.google.com/,docs,125,5,?
+https://drive.google.com/,Google Drive,126,5,?
+https://he.thetimenow.com/worldclock.php,שעון עולמי,127,5,?
+https://weather.com/,מזג האוויר,128,5,?
+https://www.gov.il/,האתר הממשלתי,129,6,?
+https://bus.gov.il/,תחבורה ציבורית,130,6,?
+https://govisit.gov.il/,GoVisit,131,6,?
+https://israelpost.co.il/,דואר ישראל,132,5,?
+https://www.taasuka.gov.il/,לוח דרושים - שירות התעסוקה,133,6,?
+https://www.tab4u.com/indexForMobile.php,Tab4U,134,7,?
+https://www.chasidinews.com/,חסידיניוס,135,7,?
+https://www.toker.fm/,הרדיו של מנחם טוקר,136,7,?
+https://kcm.fm/,קול חי מיוזיק,137,7,?
+https://kol-play.co.il/,קול פליי,138,7,?
+https://tavisraeli.co.il/,תו ישראלי,139,7,?
+https://steinsaltz-center.org/he/portal/library,שטיינזלץ,140,1,?
+https://tikunkorim.co.il/,תיקון קוראים,141,1,?
+https://koshertube.co.uk/,Koshertube,142,10,?
+http://www.chabad.org.il/,חבד,143,1,?
+https://chabad.info/,חבד אינפו,144,0,?
+https://secapp.taxes.gov.il/logon/LogonPoint/tmindex.html,רשות המיסים - כניסה ללקוחות רשומים,145,6,?
+https://www.gov.il/he/departments/israel_tax_authority/govil-landing-page,רשות המיסים בישראל,146,6,?
+https://mail.google.com/,Gmail,147,5,?
+https://www.otzar.org/,אוצר החוכמה,148,1,?
+https://www.paypal.com/,PayPal,149,8,?
+https://www.bankotsar.co.il/,אוצר החייל,150,8,?
+https://www.bankhapoalim.co.il/,בנק הפועלים,151,8,?
+https://www.discountbank.co.il/,דיסקונט,152,8,?
+https://www.leumi.co.il/,לאומי,153,8,?
+https://www.pepper.co.il/,פפר,154,8,?
+https://www.bankhadoar.co.il,בנק הדואר,155,8,?
+https://www.mercantile.co.il/,מרכנתיל,156,8,?
+https://www.mizrahi-tefahot.co.il/,מזרחי טפחות,157,8,?
+https://www.clalit.co.il/,כללית,158,9,?
+https://www.maccabi4u.co.il/,מכבי,159,9,?
+https://www.meuhedet.co.il/,מאוחדת,160,9,?
+https://leumit.co.il/,לאומית,161,9,?
+https://www.udemy.com/,Udemy,162,2,?
+https://students.education.gov.il/,פורטל תלמידים,163,2,?
+https://www.ornaki.org/,אור נקי,164,1,?
+https://newsmusic.blogspot.com/,חדשות המוזיקה להורדה,165,7,?
+https://campus.gov.il/,קמפוס IL,166,2,?
+https://ksp.co.il/,KSP,167,4,?
+https://daily-torah.tv/,ערוץ התורה,168,10,?
+https://askrav.com/,שאל את הרב,169,1,?
+https://www.hamichlol.org.il/,המכלול,170,1,?
+https://www.jdn.co.il/,JDN – חדשות,171,0,?
+https://meirkids.co.il/,ערוץ מאיר לילדים,172,10,?
+https://www.inn.co.il/Children/Teladudes.aspx,ילדודס,173,10,?
+https://www.jtube.live/,Jtube,174,10,?
+https://www.th770.co.il/alef/free,ערוץ אלף,175,10,?
+https://chitadelivery.co.il/,צ'יטה שליחויות,176,4,?
+https://www.yad2.co.il/,יד 2,177,4,?
+https://il.kolkore.com/,קול קורא,178,1,?
+https://www.iec.co.il/,חברת החשמל,179,6,?
+https://inbar.biu.ac.il/,אינ-בר,180,2,?
+https://math-wiki.com/,Math-Wiki,181,2,?
+https://www.govmap.gov.il/,Govmap,182,6,?
+https://www.kore.co.il/,כל רגע,183,0,?
+https://www.dirshu.co.il/,דירשו,184,1,?
+https://www.kikar.co.il/,כיכר השבת,185,0,?
+https://translate.google.com/,Google Translate,186,5,?
+https://grapholike.com/,גרפולייק - ברכות ואיחולים,187,5,?
+https://chabadshop.com/,חבד - שופ,188,4,?
+https://www.mushgach.co.il/,מושגח - החנות הרשמית,189,15,?
+https://yefe.co.il/,יפה נוף פלדהיים - ספרים,190,4,?
+https://www.sifreiorhachaim.co.il/,ספרי אור החיים,191,4,?
+https://www.oref.org.il/,פיקוד העורף,192,6,?
+https://www.btl.gov.il/,ביטוח לאומי,193,6,?
+https://www.m-math.co.il/,לומדים מתמטיקה,194,2,?
+https://koshercode.netlify.app/,תכנות - חומרי למידה,195,2,?
+https://www.b144.co.il/,b144,196,5,?
+https://www.waze.com/,Waze,197,5,?
+https://www.kidichic.co.il/,קידישיק,198,4,?
+https://kidsbasicfashion.com/,קידס בייסיק,199,4,?
+https://www.hadasminilove.com/,הדס מיני לאב,200,4,?
+https://new.mishnatyosef.org/,משנת יוסף,201,4,?
+https://skillshop.exceedlms.com/,הסדנה הדיגיטלית של Google,202,2,?
+https://www.angelskids.co.il/,Angeles - בגדי ילדים,203,4,?
+https://www.muka.co.il/,מוקה סטיילינג,204,4,?
+https://www.galpazmuzic.com/,גל פז מוזיקה,205,10,?
+https://www.greentec.co.il/,גרינטק - מוזיקה ותוכן יהודי,206,10,?
+https://eshkolot.net/,אשכולות - קורסים מקוונים,207,2,?
+https://poh.education.gov.il/,פורטל עובדי הוראה,208,6,?
+https://my.gov.il/,אזור אישי ממשלתי,209,6,?
+https://ysrihut.co.il/,יופי של ריהוט,210,4,?
+https://milog.co.il/,מילוג - מילון עברי עברי,211,5,?
+https://www.dshir.co.il/,דברי שיר,212,4,?
+https://www.tami4.co.il/,תמי 4,213,4,?
+https://mitmachim.top/,מתמחים טופ,214,2,?
+https://hse.org.il/,הרב שמואל אליהו,215,1,?
+https://www.yeshiva.org.il/,אתר ישיבה,216,1,?
+https://puzzle-outlet.com/,פאזל אאוטלט,217,4,?
+https://glatticket.co.il/,גלאטיקט - תרבות ברוח ההלכה,218,11,?
+https://www.cartube.co.il/,קארטיוב - חדשות רכב,219,0,?
+https://www.shagrir.co.il/,שגריר - שירותי דרך בעמ,220,4,?
+https://www.matara.pro/,נדרים פלוס,221,1,?
+https://kids.hidabroot.org/movies,סרטים לילדים - הידברות,222,10,?
+https://www.shukcity.co.il/,שוק העיר - סופרמרקט אונליין,223,4,?
+https://www.hvr.co.il/,חבר' משרתי הקבע והגמלאים,225,11,?
+https://www.jerusalemzoo.org/,גן החיות התנכי,226,11,?
+https://www.israel-aquarium.org.il/,אקווריום ישראל,227,11,?
+https://www.safari.co.il/,הספארי,228,11,?
+https://www.parks.org.il/,רשות הטבע והגנים,229,11,?
+https://www.jumbomail.me/,ג'אמבו מייל - שליחת קבצים גדולים,230,5,?
+https://hashadchan.co.il/,השדכן,231,13,?
+https://hamenagen.net/,המנגן מיוזיק,232,7,?
+https://xn--4dbclabp0e.co.il/plan,אוטובוס קרוב,233,5,?
+https://www.pneimelech.com/,פני מלך לילדים,234,10,?
+https://miktzav.com/,מקצב - פורום המוזיקה החרדי,235,7,?
+https://zoom.us/,Zoom,236,5,?
+https://www.gov.il/he/departments/ministry_of_interior/govil-landing-page,משרד הפנים,237,6,?
+https://hadass.site/,הדס - מאגר סרטונים כשרים,238,10,?
+https://col.org.il/,חבד און ליין,239,0,?
+https://www.9tut.com/,CCNA Training,240,2,?
+https://umanshalom.co.il/,אומן שלום,241,1,?
+https://www.bshemtov.com/,בית הבעל שם טוב,242,1,?
+https://www.jerusalem.muni.il/,עיריית ירושלים,243,12,?
+https://www.bnei-brak.muni.il/,עיריית בני ברק,244,12,?
+https://www.elad.muni.il/,עיריית אלעד,245,12,?
+https://betshemesh.muni.il/,עיריית בית שמש,246,12,?
+https://www.modil.org.il/,עיריית מודיעין עילית,247,12,?
+https://www.betar-illit.muni.il/,עיריית ביתר עילית,248,12,?
+https://www.shomron.org.il/,שומרון,249,12,?
+https://www.binyamin.org.il/,מטה בנימין,250,12,?
+https://www.ami.org.il/,עזר מציון,251,13,?
+https://yad-sarah.net/,יד שרה,252,13,?
+https://www.ezra-lemarpe.org/,עזרא למרפא,253,13,?
+https://zichron.org/,זכרון מנחם,254,13,?
+https://puah.org.il/,מכון פועה,255,13,?
+https://yedidim-il.org/,ידידים - סיוע בדרכים,256,13,?
+https://www.paamonim.org/,פעמונים,257,13,?
+https://www.albar.co.il/,אלבר,258,14,?
+https://www.shlomo.co.il/,שלמה סיקסט,259,14,?
+https://www.hertz.co.il/,הרץ - השכרת רכב,260,14,?
+https://www.eldan.co.il/,אלדן - רכב,261,14,?
+https://auto-shay.com/,אוטו שי,262,14,?
+https://www.freesbe.com/,פריסבי - רכב,263,14,?
+https://www.avis.co.il/,Avis -  רכב,264,14,?
+https://www.budget.co.il/,Budget - רכב,265,14,?
+https://rimon.net.il/,אינטרנט רימון,266,15,?
+https://www.netsparkmobile.com/,נטספארק - netspark,267,15,?
+https://netfree.link/,נטפרי,268,15,?
+https://kosherplay.com/,כשר פליי,269,15,?
+https://hadran.net/,הדרן,270,15,?
+https://derechamelech.net/,דרך המלך,271,15,?
+https://mmb.org.il/,לוקחים אחריות,272,15,?
+https://ironswords.help/,עורף ברזל,273,13,?
+https://www.idf.il/,אתר צהל,274,6,?
+https://www.miluim.idf.il/,אתר המילואים,275,6,?
+https://meirtv.com/,ערוץ מאיר,276,1,?
+https://www.hybp.co.il/,ישיבת אשרי האיש,277,1,?
+https://spotify-downloader.com/,Spotify Downloader,278,7,?
+https://www.hp.com/,HP - מחשבים,279,4,?
+https://hebrewbooks.org/,hebrewbooks.org,280,1,?
+https://www.date4dos.co.il/,שליש גן עדן,281,13,?
+https://www.7brachot.co.il/,שבע ברכות - הכרויות לדתיים,282,13,?
+https://www.cal-online.co.il/,כאל - כרטיסי אשראי לישראל,283,8,?
+https://digital.isracard.co.il/,ישראכרט - כרטיסי אשראי,284,8,?
+https://www.max.co.il/,מקס - כרטיסי אשראי,285,8,?
+https://harv.co.il/,הרב - שיעורי תורה,286,1,?
+https://www.kolhalashon.com/,קול הלשון - שיעורי תורה,287,1,?
+https://www.doscast.co.il/,דוסקאסט - ספרית פודקאסטים,288,10,?
+https://www.pushcoins.org/,PushCoins - אפליקצית הצדקה של ישראל,289,13,?
+https://www.ashdod.muni.il/,עיריית אשדוד,290,12,?
+https://www.yemot.co.il/,ימות המשיח פתרונות תקשורת,291,4,?
+https://www.call2all.co.il/yemot-admin-g1/,ימות המשיח ניהול מערכת טלפונית,292,5,?
