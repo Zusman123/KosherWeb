@@ -1,7 +1,7 @@
-<version-sites>12</version-sites>,,,,
+<version-sites>13</version-sites>
 https://www.inn.co.il,ערוץ 7,100,0,mLp1698924447055-1699008047424
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
-https://www.hidabroot.org/,הידברות,103,0,?
+https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
 https://m.93fm.co.il/,קול חי,102,0,?
 https://www.bhol.co.il/,בחדרי חרדים,105,0,?
 https://www.sefaria.org.il/,ספריא,106,1,?
@@ -94,7 +94,7 @@ https://www.btl.gov.il/,ביטוח לאומי,193,6,?
 https://www.m-math.co.il/,לומדים מתמטיקה,194,2,?
 https://koshercode.netlify.app/,תכנות - חומרי למידה,195,2,?
 https://www.b144.co.il/,b144,196,5,?
-https://www.waze.com/,Waze,197,5,?
+https://www.waze.com/,Waze - וויז,197,5,pDN1699174398859-1699178407208
 https://www.kidichic.co.il/,קידישיק,198,4,?
 https://kidsbasicfashion.com/,קידס בייסיק,199,4,?
 https://www.hadasminilove.com/,הדס מיני לאב,200,4,?
@@ -191,3 +191,14 @@ https://www.yemot.co.il/,ימות המשיח פתרונות תקשורת,291,4,?
 https://www.call2all.co.il/yemot-admin-g1/,ימות המשיח ניהול מערכת טלפונית,292,5,?
 http://www.kizur.co.il/,קיצורים וראשי תיבות,293,5,LZE1698917304511-1699001412502
 https://www.clfb.org.il/,הספריה לעיוורים ולבעלי לקויות קריאה,294,2,LZE1698917304511-1699001559310
+https://www.ikea.com/,איקאה,295,4,wRU1699140231764-1699140497783
+https://www.ace.co.il/,אייס - ACE,296,4,?
+https://www.homecenter.co.il/,הום סנטר,297,4,?
+https://www.migdal.co.il/,מגדל - פנסיה וקופות גמל,298,8,caC1699185915717-1699189195522
+https://www.tlushim.co.il/,תלושים,299,8,cPy1699195956780-1699196180223
+https://aluma-forms.formtitan.com/origin/Studant_peima1/origin/?dev,טנא - סיוע כלכלי לסטודנטים ,300,8,yGx1699129530231-1699210943548
+https://www.w3schools.com/,W3Schools,301,2,NtC1699123929067-1699211547943
+https://www.egged.co.il/,אגד,302,5,QBp1699256950431-1699257414679
+https://ashoova.co.il/,אשובה,303,1,ykw1699220187425-1699266915271
+https://www.kvish6.co.il/,כביש 6,304,14,TKA1699295334697-1699295434357
+https://6cn.co.il/,כביש חוצה צפון,305,14,?
