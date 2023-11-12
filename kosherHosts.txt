@@ -26,3 +26,5 @@ m.rimon.net.il
 chat.whatsapp.com
 login.meuhedet.co.il
 online.meuhedet.co.il
+shas.alhatorah.org
+library.alhatorah.org
