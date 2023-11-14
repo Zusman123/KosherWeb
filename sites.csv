@@ -1,8 +1,8 @@
-<version-sites>17</version-sites>,,,,
+<version-sites>18</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,mLp1698924447055-1699008047424
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
-https://m.93fm.co.il/,קול חי,102,0,?
+https://m.93fm.co.il/,קול חי,102,0,taL1699543552498-1699970117297
 https://www.bhol.co.il/,בחדרי חרדים,105,0,?
 https://www.sefaria.org.il/,ספריא,106,1,?
 http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,?
@@ -90,7 +90,7 @@ https://www.mushgach.co.il/,מושגח - החנות הרשמית,189,15,?
 https://yefe.co.il/,יפה נוף פלדהיים - ספרים,190,4,?
 https://www.sifreiorhachaim.co.il/,ספרי אור החיים,191,4,?
 https://www.oref.org.il/,פיקוד העורף,192,6,?
-https://www.btl.gov.il/,ביטוח לאומי,193,6,?
+https://www.btl.gov.il/,ביטוח לאומי,193,6,DtJ1699352948867-1699948137140
 https://www.m-math.co.il/,לומדים מתמטיקה,194,2,?
 https://koshercode.netlify.app/,תכנות - חומרי למידה,195,2,?
 https://www.b144.co.il/,b144,196,5,?
@@ -218,3 +218,9 @@ https://online.flipbuilder.com/,FlipBuilder - PDF to a Flipbook,318,5,mOL1699818
 https://www.ybe.org.il/,קרית הישיבה בית אל,319,13,nyJ1699786094528-1699842829141
 https://www.makor-moosmach.co.il/,מקור מוסמך,320,0,mOL1699818339286-1699852881586
 https://www.mcc.co.il/,חבר - אזרחים עובדי צהל,321,11,vYa1699854708879-1699856518357
+https://ch10.co.il,חרדים 10,322,0,cjQ1699156136393-1699921987878
+https://www.zig-zag.co.il/,זיגזג שליחויות,323,4,oDF1699529467092-1699935288889
+https://promotionstudio.co.il/,אחים לניצחון - תפילה לשלום חיילי צהל,325,13,mGz1699127670347-1699960302791
+https://chat.google.com/,Google Chat,326,5,wlo1699190416794-1699962225198
+https://pti.org.il/,מידע לנוסע בתחבורה הציבורית,327,5,QBp1699256950431-1699991467869
+https://shiduch.co/,שידוכים כהלכה,328,13,QZo1699861255312-1699991565916
