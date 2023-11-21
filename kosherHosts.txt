@@ -36,3 +36,4 @@ service.kvish6.co.il
 login.microsoftonline.com
 online.max.co.il
 my.siteground.com
+cal4u.cal-online.co.il
