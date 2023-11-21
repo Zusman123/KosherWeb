@@ -39,3 +39,4 @@ my.siteground.com
 cal4u.cal-online.co.il
 pa.miluim.idf.il
 chitadelivery-cx.com
+e-services.clalit.co.il
