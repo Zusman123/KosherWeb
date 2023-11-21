@@ -35,3 +35,4 @@ linktr.ee
 service.kvish6.co.il
 login.microsoftonline.com
 online.max.co.il
+my.siteground.com
