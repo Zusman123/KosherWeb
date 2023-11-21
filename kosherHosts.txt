@@ -34,3 +34,4 @@ app.7brachot.co.il
 linktr.ee
 service.kvish6.co.il
 login.microsoftonline.com
+online.max.co.il
