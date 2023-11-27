@@ -41,3 +41,6 @@ pa.miluim.idf.il
 chitadelivery-cx.com
 e-services.clalit.co.il
 sales.albar.co.il
+donation.asakimerp.com
+auth.yad2.co.il
+personal.yad2.co.il
