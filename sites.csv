@@ -1,10 +1,10 @@
-<version-sites>20</version-sites>,,,,
+<version-sites>21</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,mLp1698924447055-1699008047424
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
 https://m.93fm.co.il/,קול חי,102,0,taL1699543552498-1699970117297
-https://www.bhol.co.il/,בחדרי חרדים,105,0,?
-https://www.sefaria.org.il/,ספריא,106,1,?
+https://www.bhol.co.il/,בחדרי חרדים,105,0,VKR1699377907217-1700687684166
+https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
 http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,?
 https://ph.yhb.org.il/,פניני הלכה,108,1,?
 https://web.mashov.info/students/,משוב תלמידים,109,2,?
@@ -235,3 +235,13 @@ https://www.electra-afikim.co.il/,אלקטרה - אפיקים,336,5,QBp169925695
 https://www.sefer.org.il/,אוצר הספרים,337,4,mOL1699818339286-1700425705513
 https://sarig.com/,שריג אלקטריק,338,4,QBp1699256950431-1700472433883
 https://course.lioryk.com/bundles,האקדמיה לאומנות הקסמים והמנטליזם,339,2,TKA1699295334697-1700476919946
+https://www.kolel.org/,כולל - Kolel,340,1,bIp1700667827103-1700683113564
+https://www.tv2000.co.il/,ערוץ 2000,341,0,VKR1699377907217-1700687468957
+https://orot.ac.il/,מכללת אורות ישראל,342,2,WrE1699125088324-1700687707591
+https://imaot.co.il/,אמהות מבשלות ביחד,343,9,LzP1700589321557-1700720888774
+https://www.sugat.com/,סוגת - מתכונים,344,9,GKl1700126853134-1700740210538
+https://www.hachtava.co.il/,הכתבה - אתר לתרגול הכתבות,345,2,Ycl1700690544065-1700935170882
+https://ravkavonline.co.il/,רב קו,346,5,qbo1699434471659-1700981912413
+https://homework.lnet.org.il/,המקפצה,347,2,VnG1701007937545-1701009315723
+https://ads.google.com/,Google Ads,348,5,PUp1701004955941-1701021202402
+https://hameir-laarets.org.il/,המאיר לארץ,349,1,kBf1700217406758-1701053920768
