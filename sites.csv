@@ -1,11 +1,11 @@
-<version-sites>21</version-sites>,,,,
-https://www.inn.co.il,ערוץ 7,100,0,mLp1698924447055-1699008047424
+<version-sites>22</version-sites>,,,,
+https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
 https://m.93fm.co.il/,קול חי,102,0,taL1699543552498-1699970117297
 https://www.bhol.co.il/,בחדרי חרדים,105,0,VKR1699377907217-1700687684166
 https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
-http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,?
+http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,ycx1701152488698-1701152619038
 https://ph.yhb.org.il/,פניני הלכה,108,1,?
 https://web.mashov.info/students/,משוב תלמידים,109,2,?
 https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,?
@@ -81,7 +81,7 @@ https://inbar.biu.ac.il/,אינ-בר,180,2,?
 https://math-wiki.com/,Math-Wiki,181,2,?
 https://www.govmap.gov.il/,Govmap,182,6,?
 https://www.kore.co.il/,כל רגע,183,0,?
-https://www.dirshu.co.il/,דירשו,184,1,?
+https://www.dirshu.co.il/,דרשו,184,1,bWB1701281659809-1701281831167
 https://www.kikar.co.il/,כיכר השבת,185,0,?
 https://translate.google.com/,Google Translate,186,5,?
 https://grapholike.com/,גרפולייק - ברכות ואיחולים,187,5,?
@@ -132,14 +132,14 @@ https://hamenagen.net/,המנגן מיוזיק,232,7,?
 https://xn--4dbclabp0e.co.il/plan,אוטובוס קרוב,233,5,?
 https://www.pneimelech.com/,פני מלך לילדים,234,10,?
 https://miktzav.com/,מקצב - פורום המוזיקה החרדי,235,7,?
-https://zoom.us/,Zoom,236,5,?
+https://zoom.us/,Zoom,236,5,yJO1701107417591-1701603270572
 https://www.gov.il/he/departments/ministry_of_interior/govil-landing-page,משרד הפנים,237,6,?
 https://hadass.site/,הדס - מאגר סרטונים כשרים,238,10,?
 https://col.org.il/,חבד און ליין,239,0,?
 https://www.9tut.com/,CCNA Training,240,2,?
 https://umanshalom.co.il/,אומן שלום,241,1,?
 https://www.bshemtov.com/,בית הבעל שם טוב,242,1,?
-https://www.jerusalem.muni.il/,עיריית ירושלים,243,12,?
+https://www.jerusalem.muni.il/,עיריית ירושלים,243,12,wBs1701282408681-1701286418558
 https://www.bnei-brak.muni.il/,עיריית בני ברק,244,12,?
 https://www.elad.muni.il/,עיריית אלעד,245,12,?
 https://betshemesh.muni.il/,עיריית בית שמש,246,12,?
@@ -245,3 +245,15 @@ https://ravkavonline.co.il/,רב קו,346,5,qbo1699434471659-1700981912413
 https://homework.lnet.org.il/,המקפצה,347,2,VnG1701007937545-1701009315723
 https://ads.google.com/,Google Ads,348,5,PUp1701004955941-1701021202402
 https://hameir-laarets.org.il/,המאיר לארץ,349,1,kBf1700217406758-1701053920768
+https://milatova.org.il/,מילה טובה,350,1,Ycl1700690544065-1701115218923
+https://meyda.orot.ac.il/Portals/student,אורות ישראל אזור אישי,351,2,WrE1699125088324-1701164784653
+https://www.icar.co.il/,iCar - רכב,353,14,UOl1701181478533-1701182236547
+https://cafecafe.co.il/,קפה קפה,354,11,taL1699543552498-1701274705713
+https://study.noeg.co.il/,נוהג - קורס תיאוריה,355,2,NQP1701190770685-1701330723394
+https://www.masoret.co/./https://kav.meorot.net/./https://www.maharitz.co.il/.https://www.maharitz.co.il/,מסורת - אתר המסורת היהודית,356,1,ScH1701541431894-1701541824199
+https://kav.meorot.net/,המאורות - יהדות תימן,357,1,?
+https://zoogyot.co.il,בית ספר לזוגיות - בואי כלה,358,1,QBp1699256950431-1701586924956
+https://padlet.com/,פדלט - Padlet,359,2,yJO1701107417591-1701600469372
+https://www.kranoth.org.il/,קרנות השתלמות לעובדי הוראה,360,2,QBp1699256950431-1701613334138
+https://bd.mda.org.il/,זימון תורים בנק הדם,361,9,SzG1701214040880-1701614223633
+https://www.pizzahut.co.il/,פיצה האט,362,4,PUp1701004955941-1701628047632
