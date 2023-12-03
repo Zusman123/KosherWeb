@@ -44,3 +44,7 @@ sales.albar.co.il
 donation.asakimerp.com
 auth.yad2.co.il
 personal.yad2.co.il
+mg.alhatorah.org
+lln.tfaforms.net
+jerdigistatusapi.jerusalem.muni.il
+edu-il.zoom.us
