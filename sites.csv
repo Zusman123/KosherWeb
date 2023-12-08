@@ -1,4 +1,4 @@
-<version-sites>23</version-sites>,,,,
+<version-sites>24</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -170,7 +170,7 @@ https://hadran.net/,הדרן,270,15,?
 https://derechamelech.net/,דרך המלך,271,15,?
 https://mmb.org.il/,לוקחים אחריות,272,15,?
 https://ironswords.help/,עורף ברזל,273,13,?
-https://www.idf.il/,אתר צהל,274,6,?
+https://www.idf.il/,אתר צהל,274,6,lex1701900317025-1701904468482
 https://www.miluim.idf.il/,אתר המילואים,275,6,rJz1700171433452-1700463446329
 https://meirtv.com/,ערוץ מאיר,276,1,?
 https://www.hybp.co.il/,ישיבת אשרי האיש,277,1,?
@@ -257,3 +257,15 @@ https://padlet.com/,פדלט - Padlet,359,2,yJO1701107417591-1701600469372
 https://www.kranoth.org.il/,קרנות השתלמות לעובדי הוראה,360,2,QBp1699256950431-1701613334138
 https://bd.mda.org.il/,זימון תורים בנק הדם,361,9,SzG1701214040880-1701614223633
 https://www.pizzahut.co.il/,פיצה האט,362,4,PUp1701004955941-1701628047632
+https://pool.org.il/,הפול - ביטוח,363,14,jUw1701673537171-1701673917330
+https://www.555.co.il/,ביטוח ישיר,364,14,gHH1701690395802-1701690784965
+https://new.tehilimyahad.com/,תהילים יחד,365,1,WCI1701673098222-1701706714641
+https://meitav.co.il/,מיטב - בית השקעות,366,8,bbE1701796298163-1701796700570
+https://classroom.google.com/,Google Classroom,367,2,YHG1701694327853-1701813426503
+https://www.rachlin.org.il/,חסידות רחלין,368,1,aPM1701348752814-1701852418181
+https://www.kivunimrights.com/,כיוונים | זכויות,369,8,GgC1701721803403-1701868896647
+https://din.org.il/,דין - שאל את הרב,370,1,sRC1701843340264-1701871847906
+https://golantelecom.co.il/,גולן טלקום,371,4,mTY1701867633825-1701871941115
+torahkids.org,ספר התורה של ילדי ישראל,372,1,QcF1699768394449-1701940288714
+https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
+https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
