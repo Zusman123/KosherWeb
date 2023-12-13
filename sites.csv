@@ -1,4 +1,4 @@
-<version-sites>24</version-sites>,,,,
+<version-sites>25</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -6,7 +6,7 @@ https://m.93fm.co.il/,קול חי,102,0,taL1699543552498-1699970117297
 https://www.bhol.co.il/,בחדרי חרדים,105,0,VKR1699377907217-1700687684166
 https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
 http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,ycx1701152488698-1701152619038
-https://ph.yhb.org.il/,פניני הלכה,108,1,?
+https://ph.yhb.org.il/,פניני הלכה,108,1,nyJ1699786094528-1702215331777
 https://web.mashov.info/students/,משוב תלמידים,109,2,?
 https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,?
 https://bneiakiva.org.il/,בני עקיבא,111,3,?
@@ -18,7 +18,7 @@ https://www.shufersal.co.il/online/,שופרסל אונליין,117,4,?
 https://yochananof.co.il/,יוחננוף,118,4,?
 https://osherad.co.il/,אושר עד,119,4,?
 https://www.payngo.co.il/,מחסני חשמל,120,4,?
-https://www.ivory.co.il/stores.html,אייבורי,121,4,?
+https://www.ivory.co.il/stores.html,אייבורי,121,4,Cyk1698930132680-1702416848195
 https://www.bug.co.il/,באג,122,4,?
 https://leaderkids.co.il/,לידר,123,4,?
 https://www.bazars.co.il/,בזאר שטראוס,124,4,?
@@ -117,7 +117,7 @@ https://www.yeshiva.org.il/,אתר ישיבה,216,1,?
 https://puzzle-outlet.com/,פאזל אאוטלט,217,4,?
 https://glatticket.co.il/,גלאטיקט - תרבות ברוח ההלכה,218,11,?
 https://www.cartube.co.il/,קארטיוב - חדשות רכב,219,0,?
-https://www.shagrir.co.il/,שגריר - שירותי דרך בעמ,220,4,?
+https://www.shagrir.co.il/,שגריר - שירותי דרך בעמ,220,14,?
 https://www.matara.pro/,נדרים פלוס,221,1,?
 https://kids.hidabroot.org/movies,סרטים לילדים - הידברות,222,10,?
 https://www.shukcity.co.il/,שוק העיר - סופרמרקט אונליין,223,4,?
@@ -269,3 +269,14 @@ https://golantelecom.co.il/,גולן טלקום,371,4,mTY1701867633825-170187194
 torahkids.org,ספר התורה של ילדי ישראל,372,1,QcF1699768394449-1701940288714
 https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
 https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
+https://www.malam-payroll.com/,מלם שכר,375,8,caC1699185915717-1702146450784
+https://shomera.co.il/,שומרה ביטוח,376,8,pDX1699135421657-1702193905045
+https://chat.openai.com/,Chat GPT,377,5,TKA1699295334697-1702256409397
+https://www.fibi.co.il/,הבנק הבינלאומי,378,8,jkN1702253235726-1702258430120
+https://www.aig.co.il/,AIG - ביטוח,379,8,wBs1701282408681-1702283635198
+https://www.kiryatmoshe.co.il,ישיבת קרית משה,380,1,QBp1699256950431-1702297875238
+https://karovel.co.il,קרוב אליך,381,1,QBp1699256950431-1702297999919
+https://yhb.org.il/,ישיבת הר ברכה,382,1,Kkp1701930142515-1702301054150
+https://rachasheilev.org/,רחשי לב,383,13,cqN1702329754479-1702330806597
+https://calendar.2net.co.il/,לוח שנה עברי,384,5,jkN1702253235726-1702341177987
+https://www.bankjerusalem.co.il,בנק ירושלים,385,8,QBp1699256950431-1702474787887
