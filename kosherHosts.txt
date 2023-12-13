@@ -50,3 +50,4 @@ jerdigistatusapi.jerusalem.muni.il
 edu-il.zoom.us
 edu.google.com
 passwordreset.microsoftonline.com
+members.lionwheel.com
