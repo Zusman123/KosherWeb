@@ -1,13 +1,13 @@
-<version-sites>25</version-sites>,,,,
+<version-sites>26</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
-https://m.93fm.co.il/,קול חי,102,0,taL1699543552498-1699970117297
+https://www.93fm.co.il/,קול חי,102,0,yiQ1701766218289-1702840854480
 https://www.bhol.co.il/,בחדרי חרדים,105,0,VKR1699377907217-1700687684166
 https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
 http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,ycx1701152488698-1701152619038
 https://ph.yhb.org.il/,פניני הלכה,108,1,nyJ1699786094528-1702215331777
-https://web.mashov.info/students/,משוב תלמידים,109,2,?
+https://web.mashov.info/students/,משוב תלמידים,109,2,UVu1701363068319-1702752736302
 https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,?
 https://bneiakiva.org.il/,בני עקיבא,111,3,?
 https://ezra.org.il/,עזרא,112,3,?
@@ -266,7 +266,7 @@ https://www.rachlin.org.il/,חסידות רחלין,368,1,aPM1701348752814-17018
 https://www.kivunimrights.com/,כיוונים | זכויות,369,8,GgC1701721803403-1701868896647
 https://din.org.il/,דין - שאל את הרב,370,1,sRC1701843340264-1701871847906
 https://golantelecom.co.il/,גולן טלקום,371,4,mTY1701867633825-1701871941115
-torahkids.org,ספר התורה של ילדי ישראל,372,1,QcF1699768394449-1701940288714
+http://torahkids.org/,ספר התורה של ילדי ישראל,372,1,QcF1699768394449-1701940288714
 https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
 https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
 https://www.malam-payroll.com/,מלם שכר,375,8,caC1699185915717-1702146450784
@@ -280,3 +280,13 @@ https://yhb.org.il/,ישיבת הר ברכה,382,1,Kkp1701930142515-170230105415
 https://rachasheilev.org/,רחשי לב,383,13,cqN1702329754479-1702330806597
 https://calendar.2net.co.il/,לוח שנה עברי,384,5,jkN1702253235726-1702341177987
 https://www.bankjerusalem.co.il,בנק ירושלים,385,8,QBp1699256950431-1702474787887
+http://api.bat-ami.org.il/Api/Account/login,בת עמי | שירות לאומי,386,13,QmB1701377243816-1702492200902
+https://www.tel-aviv.gov.il/,עיריית תל אביב יפו,387,12,EhF1702409662766-1702494926539
+https://reshetbarzel.co.il/,רשת ברזל למלחמה,388,1,mTY1701867633825-1702542063832
+https://www.citycar.co.il/,סיטי קאר,389,14,mTY1701867633825-1702550538035
+https://www.meytarim.org/,מינהל קהילתי מיתרים,390,12,aKr1702279334420-1702561376758
+https://www.cheaphone.co.il/,צי'פון - חנות סלולר,391,4,zFO1699134570526-1702561587573
+https://hadratkodesh.co.il/,הדרת קודש - פלוס תקשורת,392,15,zFO1699134570526-1702561632763
+https://jewishenter.com/,J Enter,393,11,BbC1702200799255-1702563665470
+https://idfanc.activetrail.biz/ANC15122023895714259,דובר צהל,394,0,HSd1699729068823-1702646318347
+https://www.fnx.co.il/,הפניקס - השקעות, ביטוח, פיננסים,395,8,yOY1702789748696-1702841383392
