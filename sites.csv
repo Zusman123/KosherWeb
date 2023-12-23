@@ -1,4 +1,4 @@
-<version-sites>26</version-sites>,,,,
+<version-sites>27</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -8,7 +8,7 @@ https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
 http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,ycx1701152488698-1701152619038
 https://ph.yhb.org.il/,פניני הלכה,108,1,nyJ1699786094528-1702215331777
 https://web.mashov.info/students/,משוב תלמידים,109,2,UVu1701363068319-1702752736302
-https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,?
+https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,wTD1702550894402-1703096555938
 https://bneiakiva.org.il/,בני עקיבא,111,3,?
 https://ezra.org.il/,עזרא,112,3,?
 https://tariel.co.il/,אריאל,113,3,?
@@ -266,7 +266,6 @@ https://www.rachlin.org.il/,חסידות רחלין,368,1,aPM1701348752814-17018
 https://www.kivunimrights.com/,כיוונים | זכויות,369,8,GgC1701721803403-1701868896647
 https://din.org.il/,דין - שאל את הרב,370,1,sRC1701843340264-1701871847906
 https://golantelecom.co.il/,גולן טלקום,371,4,mTY1701867633825-1701871941115
-http://torahkids.org/,ספר התורה של ילדי ישראל,372,1,QcF1699768394449-1701940288714
 https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
 https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
 https://www.malam-payroll.com/,מלם שכר,375,8,caC1699185915717-1702146450784
@@ -290,3 +289,16 @@ https://hadratkodesh.co.il/,הדרת קודש - פלוס תקשורת,392,15,zFO
 https://jewishenter.com/,J Enter,393,11,BbC1702200799255-1702563665470
 https://idfanc.activetrail.biz/ANC15122023895714259,דובר צהל,394,0,HSd1699729068823-1702646318347
 https://www.fnx.co.il/,הפניקס - השקעות ביטוח פיננסים,395,8,yOY1702789748696-1702841383392
+https://www.psagot.co.il/,פסגות - בית השקעות,396,8,ryJ1702404593152-1702884511901
+https://www.hist.org.il/,ביחד בשבילך - מועדון הטבות,397,11,Oat1702159149584-1702908078640
+https://xn--7dbadcmma2c1d.xn--4dbrk0ce/,דוד החקיין - האתר הרשמי,398,10,gNf1702916383802-1702916976008
+https://www.whatsappmods.me/,וואטסאפ מוד - Whatsapp Mod,399,5,mGz1699127670347-1702927196357
+https://www.cfir.co.il/,כפיר - רכבת קלה ירושלים,400,14,QBp1699256950431-1702938219393
+www.datiya.co.il,דתיה אונליין | בגדים לדתיות,401,4,yCo1699127041541-1702981859100
+https://www.menoramivt.co.il/,מנורה מבטחים,402,8,?
+https://breslev.co.il/,ברסלב ישראל,403,1,mTY1701867633825-1702994821269
+https://kidstorah.org/,ספר התורה של ילדי ישראל,404,0,QcF1699768394449-1703002855064
+https://hmc.co.il/,הרצליה מדיקל סנטר,405,9,nsc1702988210796-1703015023971
+https://www.harel-group.co.il/,הראל ביטוח,406,8,bIp1700667827103-1703084277539
+https://www.talpiot.ac.il/,מכללת תלפיות,407,2,oHi1703053153891-1703139274746
+https://chabadpedia.co.il/,חב''דפדיה,408,1,Tbu1702590636605-1703203187777
