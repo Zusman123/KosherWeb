@@ -52,3 +52,6 @@ edu.google.com
 passwordreset.microsoftonline.com
 members.lionwheel.com
 account.samsung.com
+app.paamonim.org.il
+disttracking.orian.com
+lp.vp4.me
