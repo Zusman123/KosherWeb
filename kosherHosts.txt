@@ -55,3 +55,6 @@ account.samsung.com
 app.paamonim.org.il
 disttracking.orian.com
 lp.vp4.me
+gds.google.com
+bitpay.poalimlinks.co.il
+americanexpress.co.il
