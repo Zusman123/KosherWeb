@@ -1,4 +1,4 @@
-<version-sites>30</version-sites>,,,,
+<version-sites>31</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -163,7 +163,7 @@ https://www.freesbe.com/,פריסבי - רכב,263,14,?
 https://www.avis.co.il/,Avis -  רכב,264,14,?
 https://www.budget.co.il/,Budget - רכב,265,14,?
 https://rimon.net.il/,אינטרנט רימון,266,15,?
-https://www.netsparkmobile.com/,נטספארק - netspark,267,15,?
+https://www.netsparkmobile.com/,נטספארק - netspark,267,15,nGk1703841294136-1703842075174
 https://netfree.link/,נטפרי,268,15,?
 https://kosherplay.com/,כשר פליי,269,15,?
 https://hadran.net/,הדרן,270,15,?
@@ -180,7 +180,7 @@ https://hebrewbooks.org/,hebrewbooks.org,280,1,?
 https://www.date4dos.co.il/,שליש גן עדן,281,13,?
 https://www.7brachot.co.il/,שבע ברכות - הכרויות לדתיים,282,13,QBp1699256950431-1699910903371
 https://www.cal-online.co.il/,כאל - כרטיסי אשראי לישראל,283,8,oDF1699529467092-1700463290232
-https://digital.isracard.co.il/,ישראכרט - כרטיסי אשראי,284,8,?
+https://www.isracard.co.il/,ישראכרט - כרטיסי אשראי,284,8,QBp1699256950431-1703980634513
 https://www.max.co.il/,מקס - כרטיסי אשראי,285,8,rZe1700329787556-1700368437552
 https://harv.co.il/,הרב - שיעורי תורה,286,1,?
 https://www.kolhalashon.com/,קול הלשון - שיעורי תורה,287,1,?
@@ -314,3 +314,8 @@ https://www.bneidavid.org/,בני דוד עלי,417,1,NpO1698953602376-170357944
 https://he.americanexpress.co.il/,אמריקן אקספרס,418,8,TKA1699295334697-1703588844363
 https://www.paypo.com/,paypo - קופה רושמת,419,4,JON1703449554863-1703600271119
 https://zoyaonline.co.il/,זויה - בית לאופנה צנועה,420,4,Fqz1703517479133-1703697632061
+https://www.batmelech.org/,עמותת בת מלך,421,13,gCZ1703503171297-1703764092179
+https://bnotchabad.co.il/,בנות חבד,422,3,gCZ1703503171297-1703764144104
+https://quizlet.com/,Qwizlet,423,2,gCZ1703503171297-1703764439667
+https://alldaf.org/,Alldaf.com,424,1,Pab1703858501772-1703959677851
+https://www.vdoc.co.il/,vdoc - רפואה דיגיטלית מתקדמת,425,9,zvT1703826398096-1704004557881
