@@ -1,4 +1,4 @@
-<version-sites>33</version-sites>,,,,
+<version-sites>34</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -13,21 +13,21 @@ https://bneiakiva.org.il/,בני עקיבא,111,3,Elh1703358324476-1703424240094
 https://ezra.org.il/,עזרא,112,3,xkS1699540928455-1703653895509
 https://tariel.co.il/,אריאל,113,3,wRU1699140231764-1704039547830
 https://xn--8dbbvwj.net/,פעולה. נט,114,3,?
-https://www.rami-levy.co.il/, רמי לוי אונליין,116,4,?
-https://www.shufersal.co.il/online/,שופרסל אונליין,117,4,?
-https://yochananof.co.il/,יוחננוף,118,4,?
-https://osherad.co.il/,אושר עד,119,4,?
+https://www.rami-levy.co.il/,רמי לוי אונליין,116,16,?
+https://www.shufersal.co.il/online/,שופרסל אונליין,117,16,?
+https://yochananof.co.il/,יוחננוף,118,16,?
+https://osherad.co.il/,אושר עד,119,16,?
 https://www.payngo.co.il/,מחסני חשמל,120,4,?
 https://www.ivory.co.il/stores.html,אייבורי,121,4,Cyk1698930132680-1702416848195
 https://www.bug.co.il/,באג,122,4,?
-https://leaderkids.co.il/,לידר,123,4,?
-https://www.bazars.co.il/,בזאר שטראוס,124,4,?
+https://leaderkids.co.il/,לידר,123,17,?
+https://www.bazars.co.il/,בזאר שטראוס,124,17,?
 https://docs.google.com/,docs,125,5,Elh1703358324476-1703358567387
 https://drive.google.com/,Google Drive,126,5,?
 https://he.thetimenow.com/worldclock.php,שעון עולמי,127,5,?
 https://weather.com/,מזג האוויר,128,5,?
 https://www.gov.il/,האתר הממשלתי,129,6,?
-https://bus.gov.il/,תחבורה ציבורית,130,6,?
+https://bus.gov.il/,תחבורה ציבורית,130,14,?
 https://govisit.gov.il/,GoVisit,131,6,?
 https://israelpost.co.il/,דואר ישראל,132,5,?
 https://www.taasuka.gov.il/,לוח דרושים - שירות התעסוקה,133,6,?
@@ -44,7 +44,7 @@ http://www.chabad.org.il/,חבד,143,1,?
 https://chabad.info/,חבד אינפו,144,0,?
 https://secapp.taxes.gov.il/logon/LogonPoint/tmindex.html,רשות המיסים - כניסה ללקוחות רשומים,145,6,?
 https://www.gov.il/he/departments/israel_tax_authority/govil-landing-page,רשות המיסים בישראל,146,6,?
-https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=AVQVeyx_V5EJjzYm8bDuWmDjb-e30tmLZGtuPL_qJBYB8zUFoNbY7TQeDBijCVZ4NVgvvUchgMx78Q&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin,Gmail,147,5,VKR1699377907217-1699378130005
+https://mail.google.com/,Gmail,147,5,VKR1699377907217-1699378130005
 https://www.otzar.org/,אוצר החוכמה,148,1,?
 https://www.paypal.com/,PayPal,149,8,?
 https://www.bankotsar.co.il/,אוצר החייל,150,8,?
@@ -95,14 +95,14 @@ https://www.m-math.co.il/,לומדים מתמטיקה,194,2,?
 https://koshercode.netlify.app/,תכנות - חומרי למידה,195,2,?
 https://www.b144.co.il/,b144,196,5,?
 https://www.waze.com/,Waze - וויז,197,5,pDN1699174398859-1699178407208
-https://www.kidichic.co.il/,קידישיק,198,4,?
-https://kidsbasicfashion.com/,קידס בייסיק,199,4,?
-https://www.hadasminilove.com/,הדס מיני לאב,200,4,?
-https://new.mishnatyosef.org/,משנת יוסף,201,4,?
+https://www.kidichic.co.il/,קידישיק,198,17,?
+https://kidsbasicfashion.com/,קידס בייסיק,199,17,?
+https://www.hadasminilove.com/,הדס מיני לאב,200,17,?
+https://new.mishnatyosef.org/,משנת יוסף,201,17,?
 https://skillshop.exceedlms.com/,הסדנה הדיגיטלית של Google,202,2,?
-https://www.angelskids.co.il/,Angeles - בגדי ילדים,203,4,?
-https://www.muka.co.il/,מוקה סטיילינג,204,4,?
-https://www.galpazmuzic.com/,גל פז מוזיקה,205,10,?
+https://www.angelskids.co.il/,Angeles - בגדי ילדים,203,17,?
+https://www.muka.co.il/,מוקה סטיילינג,204,17,?
+https://www.galpazmuzic.com/,גל פז מוזיקה,205,7,?
 https://www.greentec.co.il/,גרינטק - מוזיקה ותוכן יהודי,206,10,?
 https://eshkolot.net/,אשכולות - קורסים מקוונים,207,2,?
 https://poh.education.gov.il/,פורטל עובדי הוראה,208,6,?
@@ -198,7 +198,7 @@ https://www.migdal.co.il/,מגדל - פנסיה וקופות גמל,298,8,caC169
 https://www.tlushim.co.il/,תלושים,299,8,cPy1699195956780-1699196180223
 https://aluma-forms.formtitan.com/origin/Studant_peima1/origin/?dev,טנא - סיוע כלכלי לסטודנטים ,300,8,yGx1699129530231-1699210943548
 https://www.w3schools.com/,W3Schools,301,2,NtC1699123929067-1699211547943
-https://www.egged.co.il/,אגד,302,5,QBp1699256950431-1699257414679
+https://www.egged.co.il/,אגד,302,14,QBp1699256950431-1699257414679
 https://ashoova.co.il/,אשובה,303,1,ykw1699220187425-1699266915271
 https://www.kvish6.co.il/,כביש 6,304,14,TKA1699295334697-1699295434357
 https://6cn.co.il/,כביש חוצה צפון,305,14,TKA1699295334697-1700054176214
@@ -238,17 +238,17 @@ https://course.lioryk.com/bundles,האקדמיה לאומנות הקסמים ו�
 https://www.kolel.org/,כולל - Kolel,340,1,bIp1700667827103-1700683113564
 https://www.tv2000.co.il/,ערוץ 2000,341,0,VKR1699377907217-1700687468957
 https://orot.ac.il/,מכללת אורות ישראל,342,2,WrE1699125088324-1700687707591
-https://imaot.co.il/,אמהות מבשלות ביחד,343,9,LzP1700589321557-1700720888774
-https://www.sugat.com/,סוגת - מתכונים,344,9,GKl1700126853134-1700740210538
+https://imaot.co.il/,אמהות מבשלות ביחד,343,16,LzP1700589321557-1700720888774
+https://www.sugat.com/,סוגת - מתכונים,344,16,GKl1700126853134-1700740210538
 https://www.hachtava.co.il/,הכתבה - אתר לתרגול הכתבות,345,2,Ycl1700690544065-1700935170882
-https://ravkavonline.co.il/,רב קו,346,5,qbo1699434471659-1700981912413
+https://ravkavonline.co.il/,רב קו,346,14,qbo1699434471659-1700981912413
 https://homework.lnet.org.il/,המקפצה,347,2,VnG1701007937545-1701009315723
 https://ads.google.com/,Google Ads,348,5,PUp1701004955941-1701021202402
 https://hameir-laarets.org.il/,המאיר לארץ,349,1,kBf1700217406758-1701053920768
 https://milatova.org.il/,מילה טובה,350,1,Ycl1700690544065-1701115218923
 https://meyda.orot.ac.il/Portals/student,אורות ישראל אזור אישי,351,2,WrE1699125088324-1701164784653
 https://www.icar.co.il/,iCar - רכב,353,14,UOl1701181478533-1701182236547
-https://cafecafe.co.il/,קפה קפה,354,11,taL1699543552498-1701274705713
+https://cafecafe.co.il/,קפה קפה,354,16,taL1699543552498-1701274705713
 https://study.noeg.co.il/,נוהג - קורס תיאוריה,355,2,NQP1701190770685-1701330723394
 https://www.masoret.co/,מסורת - אתר המסורת היהודית,356,1,ScH1701541431894-1701541824199
 https://kav.meorot.net/,המאורות - יהדות תימן,357,1,?
@@ -256,7 +256,7 @@ https://zoogyot.co.il,בית ספר לזוגיות - בואי כלה,358,1,QBp16
 https://padlet.com/,פדלט - Padlet,359,2,yJO1701107417591-1701600469372
 https://www.kranoth.org.il/,קרנות השתלמות לעובדי הוראה,360,2,QBp1699256950431-1701613334138
 https://bd.mda.org.il/,זימון תורים בנק הדם,361,9,SzG1701214040880-1701614223633
-https://www.pizzahut.co.il/,פיצה האט,362,4,PUp1701004955941-1701628047632
+https://www.pizzahut.co.il/,פיצה האט,362,16,PUp1701004955941-1701628047632
 https://pool.org.il/,הפול - ביטוח,363,14,jUw1701673537171-1701673917330
 https://www.555.co.il/,ביטוח ישיר,364,14,gHH1701690395802-1701690784965
 https://new.tehilimyahad.com/,תהילים יחד,365,1,WCI1701673098222-1701706714641
@@ -265,7 +265,7 @@ https://classroom.google.com/,Google Classroom,367,2,YHG1701694327853-1701813426
 https://www.rachlin.org.il/,חסידות רחלין,368,1,aPM1701348752814-1701852418181
 https://www.kivunimrights.com/,כיוונים | זכויות,369,8,GgC1701721803403-1701868896647
 https://din.org.il/,דין - שאל את הרב,370,1,sRC1701843340264-1701871847906
-https://golantelecom.co.il/,גולן טלקום,371,4,mTY1701867633825-1701871941115
+https://golantelecom.co.il/,גולן טלקום,371,15,mTY1701867633825-1701871941115
 https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
 https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
 https://www.malam-payroll.com/,מלם שכר,375,8,caC1699185915717-1702146450784
@@ -294,7 +294,7 @@ https://www.hist.org.il/,ביחד בשבילך - מועדון הטבות,397,11,
 https://xn--7dbadcmma2c1d.xn--4dbrk0ce/,דוד החקיין - האתר הרשמי,398,10,gNf1702916383802-1702916976008
 https://www.whatsappmods.me/,וואטסאפ מוד - Whatsapp Mod,399,5,mGz1699127670347-1702927196357
 https://www.cfir.co.il/,כפיר - רכבת קלה ירושלים,400,14,QBp1699256950431-1702938219393
-https://www.datiya.co.il/,דתיה אונליין | בגדים לדתיות,401,4,Fqz1703517479133-1703696967352
+https://www.datiya.co.il/,דתיה אונליין | בגדים לדתיות,401,17,Fqz1703517479133-1703696967352
 https://www.menoramivt.co.il/,מנורה מבטחים,402,8,?
 https://breslev.co.il/,ברסלב ישראל,403,1,mTY1701867633825-1702994821269
 https://kidstorah.org/,ספר התורה של ילדי ישראל,404,1,QcF1699768394449-1703002855064
@@ -306,23 +306,26 @@ https://rechavimzelaze.ovh/,פורום רכבים זה לזה,409,14,aGb17029397
 https://www.jct.ac.il/,המרכז האקדמי לב,410,2,RWw1699123813954-1703422095137
 https://www.mast.co.il/,mast,411,12,EzG1699776555765-1703422594461
 https://www.tairneri.co.il/,תאיר נרי - הרב ניר בן ארצי,412,1,Elh1703358324476-1703495264836
-https://www.shilav.co.il/,שילב,413,4,aGb1702939735787-1703508002771
-https://mina.co.il/,מינה בגדי ילדים,414,4,gCZ1703503171297-1703517217213
+https://www.shilav.co.il/,שילב,413,17,aGb1702939735787-1703508002771
+https://mina.co.il/,מינה בגדי ילדים,414,17,gCZ1703503171297-1703517217213
 https://www.unicko.com/,unicko - virtual classroom,415,2,Fqz1703517479133-1703522317912
 https://shop.shreibers.com/,שרייבר,416,4,zFO1699134570526-1703537296761
 https://www.bneidavid.org/,בני דוד עלי,417,1,NpO1698953602376-1703579442201
 https://he.americanexpress.co.il/,אמריקן אקספרס,418,8,TKA1699295334697-1703588844363
 https://www.paypo.com/,paypo - קופה רושמת,419,4,JON1703449554863-1703600271119
-https://zoyaonline.co.il/,זויה - בית לאופנה צנועה,420,4,Fqz1703517479133-1703697632061
-https://www.batmelech.org/,עמותת בת מלך,421,13,gCZ1703503171297-1703764092179
-https://bnotchabad.co.il/,בנות חבד,422,3,gCZ1703503171297-1703764144104
+https://zoyaonline.co.il/,זויה - בית לאופנה צנועה,420,17,Fqz1703517479133-1703697632061
+https://www.batmelech.org/,עמותת בת מלך,421,18,gCZ1703503171297-1703764092179
+https://bnotchabad.co.il/,בנות חבד,422,18,gCZ1703503171297-1703764144104
 https://quizlet.com/,Qwizlet,423,2,gCZ1703503171297-1703764439667
 https://alldaf.org/,Alldaf.com,424,1,Pab1703858501772-1703959677851
 https://www.vdoc.co.il/,vdoc - רפואה דיגיטלית מתקדמת,425,9,zvT1703826398096-1704004557881
 https://kingroyal.co.il,קינג רויאל,426,4,spZ1704052832867-1704055339261
 https://charidy.com/,צ'רידי - charidy,427,13,EzG1699776555765-1704099206078
 https://elector.b-elect.com/,אתר בחירות elector,428,6,Nuy1704102132308-1704102753601
-https://mashcantaman.co.il/,‏‪משכנתאמן - בלוג משכנתאות,429,8,EzG1699776555765-1704180049832
+https://mashcantaman.co.il/,משכנתאמן - בלוג משכנתאות,429,8,EzG1699776555765-1704180049832
 https://www.music-table.com,Music Table - Jewish Music,430,7,tfW1704043520698-1704193775142
 https://www.anafeam.co.il/,ענפים - הרב יגאל כהן,431,1,swi1703791987090-1704202465363
 https://www.hoshenjudaica.co.il/,חושן תשמישי קדושה,432,4,aGb1702939735787-1704315651248
+https://www.neshei.com/,נשי ובנות חבד,433,18,wTD1702550894402-1704135348947
+https://cstyle.co.il/,סי סטייל - אופנה צנועה,434,17,Fqz1703517479133-1703781256344
+https://new-york-dress-shop.business.site/,ניו-יורק | אופנת נשים,435,17,?
