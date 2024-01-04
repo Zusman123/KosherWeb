@@ -1,4 +1,4 @@
-<version-sites>32</version-sites>,,,,
+<version-sites>33</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -116,7 +116,7 @@ https://hse.org.il/,הרב שמואל אליהו,215,1,?
 https://www.yeshiva.org.il/,אתר ישיבה,216,1,?
 https://puzzle-outlet.com/,פאזל אאוטלט,217,4,?
 https://glatticket.co.il/,גלאטיקט - תרבות ברוח ההלכה,218,11,?
-https://www.cartube.co.il/,קארטיוב - חדשות רכב,219,0,?
+https://www.cartube.co.il/,קארטיוב - חדשות רכב,219,14,?
 https://www.shagrir.co.il/,שגריר - שירותי דרך בעמ,220,14,?
 https://www.matara.pro/,נדרים פלוס,221,1,?
 https://kids.hidabroot.org/movies,סרטים לילדים - הידברות,222,10,?
@@ -297,7 +297,7 @@ https://www.cfir.co.il/,כפיר - רכבת קלה ירושלים,400,14,QBp1699
 https://www.datiya.co.il/,דתיה אונליין | בגדים לדתיות,401,4,Fqz1703517479133-1703696967352
 https://www.menoramivt.co.il/,מנורה מבטחים,402,8,?
 https://breslev.co.il/,ברסלב ישראל,403,1,mTY1701867633825-1702994821269
-https://kidstorah.org/,ספר התורה של ילדי ישראל,404,0,QcF1699768394449-1703002855064
+https://kidstorah.org/,ספר התורה של ילדי ישראל,404,1,QcF1699768394449-1703002855064
 https://hmc.co.il/,הרצליה מדיקל סנטר,405,9,nsc1702988210796-1703015023971
 https://www.harel-group.co.il/,הראל ביטוח,406,8,bIp1700667827103-1703084277539
 https://www.talpiot.ac.il/,מכללת תלפיות,407,2,oHi1703053153891-1703139274746
@@ -322,3 +322,7 @@ https://www.vdoc.co.il/,vdoc - רפואה דיגיטלית מתקדמת,425,9,zv
 https://kingroyal.co.il,קינג רויאל,426,4,spZ1704052832867-1704055339261
 https://charidy.com/,צ'רידי - charidy,427,13,EzG1699776555765-1704099206078
 https://elector.b-elect.com/,אתר בחירות elector,428,6,Nuy1704102132308-1704102753601
+https://mashcantaman.co.il/,‏‪משכנתאמן - בלוג משכנתאות,429,8,EzG1699776555765-1704180049832
+https://www.music-table.com,Music Table - Jewish Music,430,7,tfW1704043520698-1704193775142
+https://www.anafeam.co.il/,ענפים - הרב יגאל כהן,431,1,swi1703791987090-1704202465363
+https://www.hoshenjudaica.co.il/,חושן תשמישי קדושה,432,4,aGb1702939735787-1704315651248
