@@ -64,3 +64,4 @@ bar2go.co.il
 mileon-portal.co.il
 madanes.easysend.app
 secure.cardcom.solutions
+mobile.comax.co.il
