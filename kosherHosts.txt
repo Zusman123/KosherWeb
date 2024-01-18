@@ -65,3 +65,5 @@ mileon-portal.co.il
 madanes.easysend.app
 secure.cardcom.solutions
 mobile.comax.co.il
+icom.yaad.net
+my.schooler.biz
