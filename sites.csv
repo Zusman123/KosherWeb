@@ -1,4 +1,4 @@
-<version-sites>37</version-sites>,,,,
+<version-sites>38</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -110,8 +110,7 @@ https://my.gov.il/,אזור אישי ממשלתי,209,6,?
 https://ysrihut.co.il/,יופי של ריהוט,210,4,?
 https://milog.co.il/,מילוג - מילון עברי עברי,211,5,?
 https://www.dshir.co.il/,דברי שיר,212,4,?
-https://www.tami4.co.il/,תמי 4,213,4,?
-https://mitmachim.top/,מתמחים טופ,214,2,?
+https://www.tami4.co.il/,תמי 4,213,4,BhE1705446010372-1705598598545
 https://hse.org.il/,הרב שמואל אליהו,215,1,?
 https://www.yeshiva.org.il/,אתר ישיבה,216,1,?
 https://puzzle-outlet.com/,פאזל אאוטלט,217,4,?
@@ -353,7 +352,7 @@ https://Zuzu.prat.idf.il,זוזו - חיילים,456,14,Nuy1704102132308-1704989
 https://aqua.org.il/,אקווה - האתר הישראלי לדגי נוי,457,2,KSu1704915366748-1705001217060
 https://nosachteiman.co.il/,נוסח תימן - יהדות תימן,458,1,ScH1701541431894-1705034860062
 https://www.icount.co.il/,iCount - הנהלת חשבונות באינטרנט,459,8,EzG1699776555765-1705170554123
-https://yaadpay.yaad.net/,יעד שריג - סליקת אשראי,460,5,EzG1699776555765-1705170687535
+https://yaadpay.yaad.net/,יעד שריג - סליקת אשראי,460,5,EzG1699776555765-1705559842400
 https://look4.tech/,חברים מספרים עליך - שידוכים לדתיים,461,13,QBp1699256950431-1705207885979
 https://5dakot.com/,5 דקות,462,4,bBK1703419725192-1705226337877
 https://roeto.co.il/,Roeto - מערכת לניהול לקוחות,463,5,UsT1703745476686-1705246721952
@@ -363,3 +362,10 @@ https://www.drushim.co.il/,דרושים IL,466,8,XSa1704745976931-1705349286718
 https://www.amal-nehiga.org.il/,עמל קורסים לנהיגה נכונה,467,2,aKJ1704735367726-1705382947348
 https://www.yeshivakg.co.il/,ישיבת ההסדר קריית גת,468,1,uHk1699717268826-1705405002144
 https://www.midrag.co.il/,מידרג - דירוג בעלי מקצוע,469,5,oDF1699529467092-1705494738013
+https://www.ezcount.co.il/,EasyCount - חשבוניות באינטרנט,470,8,aGb1702939735787-1705580096677
+https://chasidishplus.co.il/,חסידיש פלוס - יוצרים אמנות בשבילך,471,5,im
+https://jew10.com/,אלמנטריק - תמונות ואלמנטים יהודיים,472,5,im
+https://beitalef.com/,בית אלף - גופנים,473,5,im
+https://fontbit.co.il/,fonobit - ספריית גופנים,474,5,im
+https://fonts.google.com/,Google Fonts,475,5,im
+https://bit2c.co.il/,bit2c - קנית ביטקוין וקריפטו,476,8,VUf1705574246464-1705605113082
