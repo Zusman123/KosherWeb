@@ -67,3 +67,6 @@ secure.cardcom.solutions
 mobile.comax.co.il
 icom.yaad.net
 my.schooler.biz
+forms.office.com
+myassuta.formtitan.com
+app.upay.co.il
