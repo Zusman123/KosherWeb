@@ -1,4 +1,4 @@
-<version-sites>39</version-sites>,,,,
+<version-sites>40</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.kipa.co.il/,כיפה,104,0,RWw1699123813954-1699123813954
 https://www.hidabroot.org/,הידברות,103,0,mLp1698924447055-1699252330214
@@ -35,8 +35,7 @@ https://www.tab4u.com/indexForMobile.php,Tab4U,134,7,?
 https://www.chasidinews.com/,חסידיניוס,135,7,?
 https://www.toker.fm/,הרדיו של מנחם טוקר,136,7,?
 https://kcm.fm/,קול חי מיוזיק,137,7,?
-https://kol-play.co.il/,קול פליי,138,7,?
-https://tavisraeli.co.il/,תו ישראלי,139,7,?
+https://kol-play.co.il/,קול פליי,138,7,BhE1705446010372-1706396192028
 https://steinsaltz-center.org/he/portal/library,שטיינזלץ,140,1,?
 https://tikunkorim.co.il/,תיקון קוראים,141,1,?
 https://koshertube.co.uk/,Koshertube,142,10,?
@@ -386,3 +385,12 @@ https://shop.hazi-hinam.co.il/,חצי חינם אונליין,490,4,NLW170255151
 https://www.breslev.org/,שער ברסלב,491,1,Cqs1704955631902-1706021569975
 https://shushan.co.il/,טל בן שושן - טכנולוגיה,492,2,aBp1704398624115-1706048768852
 https://onedrive.live.com/,Microsoft OneDrive,493,5,ARr1706101547152-1706101998173
+https://www.galgalim.co.il/,גלגלים - רכב,494,14,XSa1704745976931-1706189253333
+https://www.kosharot.co.il/,כושרות - יעוץ והכוונה בכשרות,495,1,JgR1699823821364-1706262657066
+https://moovitapp.com/,מוביט - moovit,496,14,JgR1699823821364-1706262790493
+https://negina.co.il/,נגינה - לימודי מוזיקה,497,7,BhE1705446010372-1706266297171
+https://www.mhd.co.il/,מלאה הארץ דעה,498,1,uXB1703173868320-1706274505419
+https://www.medi-link.co.il,מדי לינק,499,9,QBp1699256950431-1706380752304
+https://www.cashback-hvr.co.il/,חבר קאשבק,500,11,QBp1699256950431-1706380840981
+https://www.morfix.co.il/,מורפיקס - Morfic,501,5,KfG1705635366341-1706382661518
+https://tofes101.co.il/,טופס 101 מקוון,502,8,im
