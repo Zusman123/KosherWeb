@@ -1,4 +1,4 @@
-<version-sites>43</version-sites>,,,,
+<version-sites>44</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,Dir1699452498008-1701117049458
 https://www.hidabroot.org/,הידברות,103,0,Kkp1701930142515-1706621185069
 https://www.93fm.co.il/,קול חי,102,0,yiQ1701766218289-1702840854480
@@ -18,9 +18,9 @@ https://yochananof.co.il/,יוחננוף,118,16,DvW1704301346999-1705239206844
 https://osherad.co.il/,אושר עד,119,16,?
 https://www.payngo.co.il/,מחסני חשמל,120,4,?
 https://www.ivory.co.il/stores.html,אייבורי,121,4,Cyk1698930132680-1702416848195
-https://www.bug.co.il/,באג,122,4,mkg1706781868505-1706782175904
-https://leaderkids.co.il/,לידר,123,17,?
-https://www.bazars.co.il/,בזאר שטראוס,124,17,?
+https://www.bug.co.il/,באג,122,4,oDF1699529467092-1707060040441
+https://leaderkids.co.il/,לידר,123,17,LSN1700776042235-1706981357388
+https://www.bazars.co.il/,בזאר שטראוס,124,17,LSN1700776042235-1706981402516
 https://docs.google.com/,docs,125,5,Elh1703358324476-1703358567387
 https://drive.google.com/,Google Drive,126,5,?
 https://he.thetimenow.com/worldclock.php,שעון עולמי,127,5,?
@@ -266,7 +266,7 @@ https://golantelecom.co.il/,גולן טלקום,371,15,mTY1701867633825-17018719
 https://th770.co.il/,צבאות השם,373,3,QcF1699768394449-1701940665852
 https://hebrewplus.co.il/,עברית פלוס,374,2,bIp1700667827103-1701971518594
 https://www.malam-payroll.com/,מלם שכר,375,8,caC1699185915717-1702146450784
-https://shomera.co.il/,שומרה ביטוח,376,8,pDX1699135421657-1702193905045
+https://shomera.co.il/,שומרה ביטוח,376,8,ffz1705870841374-1707290016058
 https://chat.openai.com/,Chat GPT,377,5,TKA1699295334697-1702256409397
 https://www.fibi.co.il/,הבנק הבינלאומי,378,8,jkN1702253235726-1702258430120
 https://www.aig.co.il/,AIG - ביטוח,379,8,wBs1701282408681-1702283635198
@@ -406,3 +406,10 @@ https://rachel-h.co.il/,רייצ'ל H,512,17,Drm1705173639552-1706677373560
 https://hayanuka.com/,הינוקא - ים שלמה,513,1,zAT1706708604893-1706708880975
 https://hamusicay.com/,המוזיקאי - פורום מוזיקה,514,7,rFd1705656134964-1706808116911
 https://search.dicta.org.il/,דיקטה - חיפוש בתנ"ך,515,0,pKI1706009543433-1706809975647
+https://chordityourself.com/,להוציא אקורדים משמיעה,516,7,mkg1706781868505-1706819131799
+https://or-breslev.co.il/,אור הגנוז - ברסלב,517,1,YHf1706792071307-1706820723996
+https://pocketteacher.co/,pocket teacher - להצליח בלימודים,518,2,mkg1706781868505-1706862026425
+http://www.sephardichazzanut.com/,חזנות ספרדי,519,1,mkg1706781868505-1706875343786
+https://bvl.org.il/,בית ועד לחכמים,520,1,YpG1706456533918-1706993805560
+https://wordwall.net/he,Wordwall - צור חומרי למידה,521,2,sSo1707024338459-1707051255335
+https://shayleyeladim.org.il/,שי לילדים,522,1,sSo1707024338459-1707052554278
