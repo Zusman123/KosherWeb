@@ -71,3 +71,5 @@ forms.office.com
 myassuta.formtitan.com
 app.upay.co.il
 infoa9bf3f.clickfunnels.com
+www.cheetahdelivery.co.il
+auth0.openai.com
