@@ -78,3 +78,6 @@ app-rimon.co.il
 account.live.com
 confirmation.atmos.co.il
 www.femi.com
+feed.b-elect.com
+yehudabenyosef-bingo.logivote.com
+osher.pairzon.com
