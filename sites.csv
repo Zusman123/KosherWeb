@@ -1,10 +1,10 @@
-<version-sites>54</version-sites>,,,,
+<version-sites>55</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,uXB1703173868320-1709637663544
 https://www.hidabroot.org/,הידברות,103,0,BhE1705446010372-1710177997780
 https://www.93fm.co.il/,קול חי,102,0,yiQ1701766218289-1702840854480
 https://www.bhol.co.il/,בחדרי חרדים,105,0,hFH1707746699874-1707747084593
 https://www.sefaria.org.il/,ספריא,106,1,Ycl1700690544065-1700749537915
-http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,ycx1701152488698-1701152619038
+http://daf-yomi.com/dafYomi.aspx,הדף היומי,107,1,hKZ1705323548478-1710667826583
 https://ph.yhb.org.il/,פניני הלכה,108,1,nyJ1699786094528-1702215331777
 https://web.mashov.info/students/,משוב תלמידים,109,2,UVu1701363068319-1702752736302
 https://school.kotar.cet.ac.il/,מטח - ספרי לימוד,110,2,wTD1702550894402-1703096555938
@@ -466,3 +466,11 @@ https://creditdata.org.il/,נתוני אשראי - בנק ישראל,572,8,kCI17
 https://taamu.co.il/,טעמו וראו - הרב בועז שלום,573,0,seE1704283952543-1710054322644
 https://verifone.co.il/,Verifone - סליקת אשראי ,574,8,HIs1708889178082-1710112131846
 https://totalkg.org.il/,ישיבת תומכי תמימים קרית גת,575,1,EzG1699776555765-1710176090740
+https://www.sinai.org.il/,סיני - לימוד הדף היומי,576,1,Fgp1708945057345-1710305366959
+https://mechon-mamre.org/,מכון ממרא,577,1,cnw1710014636177-1710309503436
+https://www.kitomarom.co.il/,קיטו מרום - פרויקטים חינוכיים,578,12,WmV1709817179155-1710330633540
+https://elitcar.co.il/,עילית קאר - סוכנות רכב,579,14,gyO1705485867191-1710341544987
+https://www.boi.org.il/,בנק ישראל,580,8,EzG1699776555765-1710446895234
+https://ashreinu.app/,אשרינו - הרבי מליובאוויטש,581,1,EzG1699776555765-1710502386708
+https://www.tirat-carmel.muni.il/,עיריית טירת הכרמל,582,12,vrE1705942486617-1710774558050
+https://www.theorytest.org.il/,מבחני תיאוריה - משרד הרישוי,583,6,VBd1705436417318-1710801760998
