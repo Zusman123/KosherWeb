@@ -53,4 +53,7 @@ live.or-bit.net
 malahn.aminutapps.com
 www.metropolinet.co.il
 www.causematch.com
-login.yahav.co.il
+yahav.co.il
+dbank.co.il
+dclub.co.il
+app.fireberry.com
