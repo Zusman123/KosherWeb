@@ -1,4 +1,4 @@
-<version-sites>60</version-sites>,,,,
+<version-sites>61</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,?
 https://www.hidabroot.org/,הידברות,103,0,?
 https://www.93fm.co.il/,קול חי,102,0,?
@@ -119,7 +119,7 @@ https://www.matara.pro/,נדרים פלוס,221,1,?
 https://kids.hidabroot.org/movies,סרטים לילדים - הידברות,222,10,?
 https://www.shukcity.co.il/,שוק העיר - סופרמרקט אונליין,223,4,?
 https://www.hvr.co.il/,חבר' משרתי הקבע והגמלאים,225,11,?
-https://www.jerusalemzoo.org/,גן החיות התנכי,226,11,?
+https://www.jerusalemzoo.org.il/,גן החיות התנכי,226,11,null
 https://www.israel-aquarium.org.il/,אקווריום ישראל,227,11,?
 https://www.safari.co.il/,הספארי,228,11,?
 https://www.parks.org.il/,רשות הטבע והגנים,229,11,?
@@ -405,7 +405,7 @@ https://www.yelonmoreh.co.il/,ישיבת אלון מורה,511,1,?
 https://rachel-h.co.il/,רייצ'ל H,512,17,?
 https://hayanuka.com/,הינוקא - ים שלמה,513,1,?
 https://hamusicay.com/,המוזיקאי - פורום מוזיקה,514,7,?
-https://search.dicta.org.il/,"דיקטה - חיפוש בתנ""ך",515,0,?
+https://search.dicta.org.il/,דיקטה - חיפוש בתנך,515,1,null
 https://chordityourself.com/,להוציא אקורדים משמיעה,516,7,?
 https://or-breslev.co.il/,אור הגנוז - ברסלב,517,1,?
 https://pocketteacher.co/,pocket teacher - להצליח בלימודים,518,2,?
@@ -463,7 +463,7 @@ https://www.bookaflight.co.il/,טיסות - Book A Flight,569,14,?
 https://www.mdais.org/,מגן דוד אדום בישראל,570,9,?
 https://www.ronyohananov.com/,רון יוחננוב - בלוג אוכל,571,16,?
 https://creditdata.org.il/,נתוני אשראי - בנק ישראל,572,8,?
-https://taamu.co.il/,טעמו וראו - הרב בועז שלום,573,0,?
+https://taamu.co.il/,טעמו וראו - הרב בועז שלום,573,1,null
 https://verifone.co.il/,Verifone - סליקת אשראי ,574,8,?
 https://totalkg.org.il/,ישיבת תומכי תמימים קרית גת,575,1,?
 https://www.sinai.org.il/,סיני - לימוד הדף היומי,576,1,?
@@ -486,8 +486,19 @@ https://digitalschool.co.il/,דיגיטל סקול - מכללת איקום,592,2
 http://zolsefer.co.il/,זול ספר - ספרי קודש,593,4,null
 https://beinhazmanim.iyun.org.il/,בין הזמנים - במה לספרות חרדית,594,11,null
 https://vdivani.co.il/,ויטוריו דיואני - הכל לבית,595,4,null
-https://www.pnimi.org.il/,גל עיני - פנימי,596,1,null
+https://pnimi.org.il/,גל עיני - פנימי,596,1,null
 https://netzach-md.org.il/,נצח - מכינה ללימודי רפואה,597,2,null
 https://www.haazinu.net/,האזינו - שיעורים ברמבם היומי,598,1,null
 https://videos.jem.tv/,JEM.tv - הרבי מליובאוויטש,599,10,null
 https://sheilot.com/,שאלות - פורטל עולמי לשאלות בהלכה,600,1,null
+https://breslovmatch.com/,אתר שידוכים ברסלב,601,13,null
+https://bagir-il.com/,בגיר אופנת גברים,602,4,null
+https://smslarav.co.il/,סמס לרב,603,1,null
+https://mekupele.co.il/,מקופלא - חווית למידה מהלב,604,2,null
+https://www.heichal.co.il/,היכל מנחם - ספרים ויודאיקה,605,4,null
+https://www.toratesh.com/,תורת אש - מרכז הסתם,606,1,null
+https://thedailysicha.com/,השיחה היומית,607,1,null
+https://m-shuk.net/,מחסני השוק,608,4,null
+https://kollkvoda.co.il/,קול כבודה,609,18,null
+https://www.chabadjewishlife.org,חב"ד חיים יהודיים,610,1,null
+https://www.metropoline.com,מטרופולין,611,14,null
