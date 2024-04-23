@@ -1,4 +1,4 @@
-<version-sites>62</version-sites>,,,,
+<version-sites>63</version-sites>,,,,
 https://www.inn.co.il,ערוץ 7,100,0,?
 https://www.hidabroot.org/,הידברות,103,0,?
 https://www.93fm.co.il/,קול חי,102,0,?
@@ -415,7 +415,6 @@ https://wordwall.net/he,Wordwall - צור חומרי למידה,521,2,?
 https://shayleyeladim.org.il/,שי לילדים,522,1,?
 https://www.rabenu.shop/,רבנו שופ - חנות האש שלי,523,4,?
 https://www.bslonline.co.il/,BSL - הספר להשקעות,524,8,?
-https://gemini.google.com/,Gemini - בינה מלאכותית,525,5,?
 https://www.mafteiach.app/,מפתח,526,1,?
 https://abargel.co.il/,קול רינה - הרב יורם אברג'ל,527,1,?
 https://www.kranot.org.il/,קרנות השוטרים,528,11,?
@@ -502,3 +501,7 @@ https://m-shuk.net/,מחסני השוק,608,4,null
 https://kollkvoda.co.il/,קול כבודה,609,18,null
 https://www.chabadjewishlife.org,חב"ד חיים יהודיים,610,1,null
 https://www.metropoline.com/,מטרופולין,611,14,null
+https://chabadisrael.co.il/,חבד ישראל,612,1,null
+https://remotedesktop.google.com/,Chrome Remote Desktop,613,5,null
+https://matara.pro/,נדרים פלוס,614,1,null
+https://groups.google.com/,Google Groups,615,5,null
