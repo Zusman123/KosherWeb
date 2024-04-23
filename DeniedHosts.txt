@@ -8,3 +8,6 @@ play.google.com,5
 13tv.co.il,3
 sites.google.com,6
 kan.org.il,3
+null
+wikipedia.co.il,7
+www.kipa.co.il,3
