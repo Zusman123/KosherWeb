@@ -63,3 +63,8 @@ portal.smoove.io
 run.ydm.co.il
 global.cainiao.com
 www.isracard-gift.co.il
+cloud.amital.co.il
+bizlabor.formtitan.com
+www.midgampanel.com
+rishumon.net
+jem-auth.firebaseapp.com
