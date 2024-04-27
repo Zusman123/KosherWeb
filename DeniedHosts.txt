@@ -10,3 +10,7 @@ sites.google.com,6
 kan.org.il,3
 wikipedia.co.il,7
 kipa.co.il,3
+www.riseup.co.il,7
+liteapks.com,3
+animeflix.live,3
+www.google.com,3
