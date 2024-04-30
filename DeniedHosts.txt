@@ -14,3 +14,6 @@ www.riseup.co.il,7
 liteapks.com,3
 animeflix.live,3
 www.google.com,3
+link.brawlstars.com,3
+jut-su.net,3
+www.bandsintown.com,7
