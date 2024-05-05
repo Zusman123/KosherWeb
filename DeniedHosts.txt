@@ -11,13 +11,11 @@ kan.org.il,3
 wikipedia.co.il,7
 kipa.co.il,3
 liteapks.com,3
-animeflix.live,3
 www.google.com,3
 brawlstars.com,3
 jut-su.net,3
 www.bandsintown.com,7
-www.rrr.co.il,7
 isport.co.il,3
 facebook.com,3
 pixabay.com,7
-www.studiopasha.co.il,7
+site123.com,6
