@@ -19,3 +19,5 @@ isport.co.il,3
 facebook.com,3
 pixabay.com,7
 site123.com,6
+t.me,3
+www.canva.com,7
