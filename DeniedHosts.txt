@@ -21,3 +21,8 @@ pixabay.com,7
 site123.com,6
 t.me,3
 www.canva.com,7
+m.alibaba.com,3
+www.temu.com,7
+www.zara.com,7
+www.footlocker.co.il,7
+www.sacara.co.il,7
