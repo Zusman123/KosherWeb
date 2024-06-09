@@ -26,3 +26,5 @@ www.temu.com,7
 www.zara.com,7
 www.footlocker.co.il,7
 www.sacara.co.il,7
+www.instagram.com,3
+www.ynet.co.il,3
