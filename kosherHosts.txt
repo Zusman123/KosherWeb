@@ -84,3 +84,5 @@ shadow-order.co.il
 www.machon-mor.co.il
 iec.digitalnow.co.il
 picndo.com
+accounts.spotify.com
+sm-dashboard-frontend-production.up.railway.app
