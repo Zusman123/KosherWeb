@@ -28,3 +28,8 @@ www.footlocker.co.il,7
 www.sacara.co.il,7
 www.instagram.com,3
 www.ynet.co.il,3
+lp6.senzey.com,6
+accounts.nike.com,7
+survey.polyeda.com,6
+www.atzuma.co.il,3
+www.wikirefua.org.il,3
