@@ -33,3 +33,8 @@ accounts.nike.com,7
 survey.polyeda.com,6
 www.atzuma.co.il,3
 www.wikirefua.org.il,3
+www.pinterest.com,3
+super-pharm.co.il,7
+ngl.link,3
+now14.co.il,9
+golfkids.co.il,7
