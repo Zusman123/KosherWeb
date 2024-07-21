@@ -104,3 +104,6 @@ block.opendns.com
 academy.tatmoda.co.il
 app.mobile.me.app
 www.02ws.co.il
+tracking.buzzr.biz
+shtiglitz.co.il
+join.yedidim1230.com
