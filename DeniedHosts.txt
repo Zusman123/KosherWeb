@@ -41,3 +41,5 @@ golfkids.co.il,7
 suno.com,3
 www.dropbox.com,6
 ravpage.co.il,6
+doubleclick.net,15
+apkcombo.com,3
