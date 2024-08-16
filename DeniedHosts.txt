@@ -43,3 +43,9 @@ www.dropbox.com,6
 ravpage.co.il,6
 doubleclick.net,15
 apkcombo.com,3
+app.dudeperfect.com,3
+garticphone.com,3
+www.delta.co.il,3
+www.aireuropa.com,7
+www.telegram.org,3
+kiwi-kids.co.il,3
