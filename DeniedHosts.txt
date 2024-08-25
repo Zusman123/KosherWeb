@@ -49,3 +49,6 @@ www.delta.co.il,3
 www.aireuropa.com,7
 www.telegram.org,3
 kiwi-kids.co.il,3
+buyme.co.il,7
+il.academe.plus,3
+www.spotify.com,3
