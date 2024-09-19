@@ -53,3 +53,7 @@ buyme.co.il,7
 il.academe.plus,3
 www.spotify.com,3
 sourceforge.net,3
+www.adobe.com,3
+www.adidas.co.il,3
+tunebat.com,3
+www.baba-mail.co.il,3
