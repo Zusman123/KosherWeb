@@ -57,3 +57,8 @@ www.adobe.com,3
 www.adidas.co.il,3
 tunebat.com,3
 www.baba-mail.co.il,3
+www.seaschool.co.il,7
+walitex.com,1
+www.kankids.org.il,3
+fxnow.fxnetworks.com,3
+www.lupa.co.il,3
