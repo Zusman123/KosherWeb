@@ -62,3 +62,12 @@ walitex.com,1
 www.kankids.org.il,3
 fxnow.fxnetworks.com,3
 www.lupa.co.il,3
+www.israelhayom.co.il,3
+www.sport5.co.il,3
+www.one.co.il,3
+shavshevet.tickchak.co.il,6
+www.castro.com,3
+il.secretly.world,11
+asos.com,3
+walla.co.il,3
+makorrishon.co.il,3
