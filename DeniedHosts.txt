@@ -71,3 +71,7 @@ il.secretly.world,11
 asos.com,3
 walla.co.il,3
 makorrishon.co.il,3
+www.golfgroup.co.il,3
+getshopdeal.com,7
+vimeo.com,6
+www.midrag.co.il,7
