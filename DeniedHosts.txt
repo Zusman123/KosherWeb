@@ -75,3 +75,8 @@ www.golfgroup.co.il,3
 getshopdeal.com,7
 vimeo.com,6
 www.midrag.co.il,7
+tickchak.co.il,6
+market.yad2.co.il,7
+www.dugit.co.il,7
+www.booking.com,7
+www.terminalx.com,7
