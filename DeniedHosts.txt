@@ -80,3 +80,9 @@ market.yad2.co.il,7
 www.dugit.co.il,7
 www.booking.com,7
 www.terminalx.com,7
+he.m.wikipedia.org,3
+jacobhotels.com,7
+www.apkmirror.com,3
+liveball.uno,3
+www.ourboox.com,3
+www.sahbak.co.il,7
