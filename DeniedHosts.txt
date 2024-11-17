@@ -86,3 +86,5 @@ www.apkmirror.com,3
 liveball.uno,3
 www.ourboox.com,3
 www.sahbak.co.il,7
+xdaforums.com,3
+www.ice.co.il,3
