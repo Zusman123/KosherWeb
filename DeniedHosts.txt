@@ -97,3 +97,8 @@ adahlazorgan.co.il,7
 tzz.co.il,7
 cellcom.co.il,7
 shanijacobi.co.il,7
+youtube.com,4
+shop.yafa-maximov.co.il,7
+online.anyflip.com,6
+chatgpt.com,7
+www.payngo.co.il,7
