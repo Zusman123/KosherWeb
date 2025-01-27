@@ -102,3 +102,5 @@ shop.yafa-maximov.co.il,7
 online.anyflip.com,6
 chatgpt.com,7
 www.payngo.co.il,7
+www.huggies.co.il,7
+www.maxstock.co.il,7
