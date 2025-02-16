@@ -105,3 +105,4 @@ www.payngo.co.il,7
 www.huggies.co.il,7
 www.maxstock.co.il,7
 www.wikipedia.org,3
+podcastim.org.il,3
