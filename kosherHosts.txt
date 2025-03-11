@@ -63,7 +63,6 @@ cloud.amital.co.il
 bizlabor.formtitan.com
 www.midgampanel.com
 rishumon.net
-jem-auth.firebaseapp.com
 www.pulseem.com
 tak.co.il
 meshulam.co.il
@@ -158,7 +157,6 @@ yagdiltora.co.il
 .muni.il
 www.hughug.co.il
 chidonim.org.il
-.firebaseapp.com
 www.halalit.co.il
 simchonim.co.il
 www.peach-in.com
@@ -274,3 +272,9 @@ ship.co.il
 pay.tabit.cloud
 kesherhk.info
 jmc.ac.il
+hac.ac.il
+kivun.biz
+magicschool.ai
+yosefb.com
+katzd.co.il
+firebaseapp.com
