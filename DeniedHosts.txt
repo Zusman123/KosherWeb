@@ -109,3 +109,8 @@ podcastim.org.il,3
 wingate.org.il,7
 www.mediafire.com,6
 n12.co.il,3
+commons.m.wikimedia.org,1
+www.cal-store.co.il,7
+www.calameo.com,6
+www.icloud.com,3
+embyil.tv,3
